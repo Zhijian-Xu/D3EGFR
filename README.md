@@ -7,7 +7,7 @@ Users are recommended to search for EGFR mutation patient cases and predict drug
 
 ## Usage of the source code
 ### First step
-Install DeepPurpose. please refer to this link for details (https://github.com/kexinhuang12345/DeepPurpose)
+Install DeepPurpose. Please refer to this link for details (https://github.com/kexinhuang12345/DeepPurpose)
 
 ### Second step
 ```
