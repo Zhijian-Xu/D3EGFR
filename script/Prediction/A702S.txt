@@ -1,0 +1,9 @@
+Mutation Drug Predicted_response P(CR/PR) P(SD) P(PD) Score
+A702S Gefitinib CR/PR 58.7% 39.0% 2.3% -0.73
+A702S Erlotinib CR/PR 68.4% 30.6% 1.0% -1.0
+A702S Icotinib CR/PR 70.7% 28.5% 0.8% -1.07
+A702S Afatinib CR/PR 91.2% 8.8% 0.0% -2.05
+A702S Dacomitinib CR/PR 88.8% 11.1% 0.1% -1.87
+A702S Osimertinib CR/PR 72.8% 26.5% 0.6% -1.14
+A702S Almonertinib CR/PR 73.1% 26.3% 0.6% -1.15
+A702S Furmonertinib CR/PR 73.7% 25.7% 0.6% -1.17

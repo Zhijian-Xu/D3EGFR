@@ -1,0 +1,1340 @@
+Exon,Type,EGFR mutation,Gender,Age,Ethnicity,Smoking status,Pathology,EGFR-TKI,Line-of-therapy,ECOG performance status,Response,Response criteria,Percent change target lesion(s),TTP(month),PFS (months),OS(months from start of EGFR TKI),Study type,PMID
+21,point mutation,A859T,female,,,non-smoker,squamous cell carcinoma,Gefitinib,,,PD,WHO,,2,,5+,retrospective case series,15710947
+18,point mutation,E709K+G719A,female,,,non-smoker,NSCLC,Gefitinib,,,PR,WHO,,3,,4,retrospective case series,15710947
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma with bronchioloalveolar features,Gefitinib,,,PR,WHO,,4+,,4+,retrospective case series,15710947
+19,deletion-insertion,E746_S752delinsA,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,5+,,5+,retrospective case series,15710947
+19,deletion-insertion,E746_S752delinsV,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,22+,,22+,retrospective case series,15710947
+18,point mutation,G719A,male,,,smoker,adenocarcinoma,Gefitinib,,,PD,WHO,,3,,15+,retrospective case series,15710947
+18,point mutation,G719A,female,,,smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,WHO,,22,,26+,retrospective case series,15710947
+19,deletion-insertion,L747_T751delinsP,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,27,,30.5,retrospective case series,15710947
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,5+,,5+,retrospective case series,15710947
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,5,,5+,retrospective case series,15710947
+21,point mutation,L858R,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,21.5,,22,retrospective case series,15710947
+21,point mutation,L858R,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,4+,,4+,retrospective case series,15710947
+21,point mutation,L858R,female,,,non-smoker,NSCLC,Gefitinib,,,PR,WHO,,14+,,14+,retrospective case series,15710947
+19,insertion,I744insKIPVAI,,,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,15738541
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PD,RECIST,,2.11,,2.11,retrospective case series,15870435
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PD,RECIST,,2.18,,5.3,retrospective case series,15870435
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PD,RECIST,,1.61,,3.16,retrospective case series,15870435
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,13.6,,26.2,retrospective case series,15870435
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,17.4,,17.4,retrospective case series,15870435
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,CR,RECIST,,19.7,,20.8,retrospective case series,15870435
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PD,RECIST,,1.55,,2.86,retrospective case series,15870435
+21,point mutation,V852I,,,,,NSCLC,Gefitinib,,,PD,RECIST,,4.05,,4.05,retrospective case series,15870435
+20,point mutation,A763V,female,80,,non-smoker,squamous cell carcinoma,Gefitinib,,3,PD,RECIST,,,1.9,1.9,retrospective case series,15897572
+20,deletion,A767_V769del,male,54,,non-smoker,adenocarcinoma,Gefitinib,,1,PD,RECIST,,,0.3,0.9,retrospective case series,15897572
+18,point mutation,E709Q,female,55,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,6,10.6,retrospective case series,15897572
+19,deletion,E746_A750del,male,52,,former-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,22.3,22.3,retrospective case series,15897572
+19,deletion,E746_A750del,male,64,,former-smoker,adenocarcinoma,Gefitinib,,0,PR,RECIST,,,11.1,20.2,retrospective case series,15897572
+19,deletion,E746_A750del,female,49,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,7.8,9.1,retrospective case series,15897572
+19,deletion,E746_A750del,female,40,,non-smoker,adenocarcinoma,Gefitinib,,4,PR,RECIST,,,5,9.9,retrospective case series,15897572
+19,deletion,E746_A750del,female,57,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,2.6,12,retrospective case series,15897572
+18 and 21,point mutation,G719S+L861Q,female,65,,non-smoker,adenocarcinoma,Gefitinib,,2,PD,RECIST,,,0.5,2,retrospective case series,15897572
+21,point mutation,G863D,male,73,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,6.5,9.1,retrospective case series,15897572
+19,deletion-insertion,L747_P753delinsS,male,71,,former-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,22.3,22.3,retrospective case series,15897572
+19,deletion-insertion,L747_P753delinsS,male,56,,non-smoker,squamous cell carcinoma,Gefitinib,,1,SD,RECIST,,,2.4,2.5,retrospective case series,15897572
+21,point mutation,L858R,female,62,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,20.4,20.4,retrospective case series,15897572
+21,point mutation,L858R,male,72,,non-smoker,adenocarcinoma,Gefitinib,,2,PR,RECIST,,,4.8,8.5,retrospective case series,15897572
+21,point mutation,L858R,male,57,,non-smoker,adenocarcinoma,Gefitinib,,2,PR,RECIST,,,2.9,4.3,retrospective case series,15897572
+21,point mutation,L858R,female,68,,non-smoker,adenocarcinoma,Gefitinib,,4,SD,RECIST,,,2.7,3.7,retrospective case series,15897572
+21,point mutation,L858R,male,29,,current-smoker,squamous cell carcinoma,Gefitinib,,3,PD,RECIST,,,2,2.5,retrospective case series,15897572
+21,point mutation,L861Q,male,68,,non-smoker,adenocarcinoma,Gefitinib,,2,PR,RECIST,,,18.3,21.9,retrospective case series,15897572
+18,point mutation,N700D,male,65,,former-smoker,adenocarcinoma,Gefitinib,,2,PR,RECIST,,,7.9,15.9,retrospective case series,15897572
+21,point mutation,N826S,male,57,,former-smoker,squamous cell carcinoma,Gefitinib,,1,SD,RECIST,,,6.7,9,retrospective case series,15897572
+18,point mutation,S720P,female,79,,non-smoker,adenocarcinoma,Gefitinib,,2,PR,RECIST,,,13.2,20.5,retrospective case series,15897572
+20,point mutation,T783A,female,42,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,6,20,retrospective case series,15897572
+18,point mutation,V689M,male,62,,former-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,3.9,10.6,retrospective case series,15897572
+20,point mutation,V765A,female,52,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,3.9,14.7,retrospective case series,15897572
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9.6,14,prospective clinical trial,15956035
+19,deletion,E746_A750del,male,,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3.2,24.8,prospective clinical trial,15956035
+19,deletion,E746_A750del,male,,,non-smoker,squamous cell carcinoma,Gefitinib,,,SD,RECIST,,,3.1,4.6,prospective clinical trial,15956035
+19,deletion-insertion,L747_P753delinsS,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9.8,18.7,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,RECIST,,,13.4,18.5,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,12.4,12.4,prospective clinical trial,15956035
+21,point mutation,L858R,male,,,non-smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,RECIST,,,11.2,25.3,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9.5,9.5,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9.1,17.9,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8,13.7,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,5.8,16.5,prospective clinical trial,15956035
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3,9.8,prospective clinical trial,15956035
+19,deletion,E746_A750del,female,56,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+19,deletion,E746_A750del,male,71,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,15958609
+19,deletion,E746_A750del,male,63,,,squamous cell carcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,15958609
+19,deletion-insertion,L747_P753delinsS,female,43,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+21,point mutation,L858R,female,44,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,15958609
+21,point mutation,L858R,female,54,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+21,point mutation,L858R,female,60,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+21,point mutation,L858R,female,51,,,Bronchioalveolar carcinoma or adenocarcinoma with partial bronchioalveolar carcinoma features,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+20,point mutation,P772P,male,64,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,15958609
+20,point mutation,Q787Q,male,70,,,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,15958609
+21,point mutation,Q787Q+L858R,female,54,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+21,point mutation,Q787Q+L858R,male,73,,,Bronchioalveolar carcinoma or adenocarcinoma with partial bronchioalveolar carcinoma features,Gefitinib,,,PR,RECIST,,,,,retrospective case series,15958609
+19,deletion,E746_A750del,female,65,,smoker,adenocarcinoma,Gefitinib,second-line,,PR,,,,,,retrospective case series,16106023
+19,deletion,E746_A750del,female,68,,smoker,adenocarcinoma,Gefitinib,second-line,,PR,,,,,,retrospective case series,16106023
+19,deletion,E746_A750del,female,53,,smoker,NSCLC,Gefitinib,second-line,,PR,,,,,,retrospective case series,16106023
+19,deletion,L747_S752del,male,71,,smoker,adenocarcinoma,Gefitinib,first-line,,PD,,,,,,retrospective case series,16106023
+19,deletion,E746_A750del,female,42,,non-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,,,18.9,retrospective case series,16115929
+19,deletion,E746_A750del,male,52,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,8.9,retrospective case series,16115929
+19,deletion,E746_A750del,female,54,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,18.7,retrospective case series,16115929
+19,deletion,E746_A750del,female,71,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,8.9,retrospective case series,16115929
+19,deletion,E746_A750del,female,84,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,11.7,retrospective case series,16115929
+19,deletion-insertion,E746_S752delinsV,male,37,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,15.9,retrospective case series,16115929
+19,deletion-insertion,E746_S752delinsV,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,13.7,retrospective case series,16115929
+19,deletion,E746_T751del,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,9.5,retrospective case series,16115929
+19,deletion-insertion,E746_T751delinsA,male,63,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,17.8,retrospective case series,16115929
+18,point mutation,L718P,female,60,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,15.3,retrospective case series,16115929
+19 and 20,deletion-insertion and point mutation,L747_P753delinsS+L861Q,male,67,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,22,retrospective case series,16115929
+19,deletion-insertion,L747_T751delinsF,male,50,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,18.4,retrospective case series,16115929
+21,point mutation,L858R,female,34,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,6.1,retrospective case series,16115929
+21,point mutation,L858R,male,49,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,25.4,retrospective case series,16115929
+21,point mutation,L858R,female,61,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,14.3,retrospective case series,16115929
+,,WT,female,52,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,8.3,retrospective case series,16115929
+,,WT,female,60,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,6.7,retrospective case series,16115929
+,,WT,male,65,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,22.1,retrospective case series,16115929
+,,WT,female,68,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,24.3,retrospective case series,16115929
+,,WT,male,76,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,10.8,retrospective case series,16115929
+,,WT,female,53,,non-smoker,large-cell carcinoma,Gefitinib,,,PR,RECIST,,,,18.4,retrospective case series,16115929
+18,point mutation,G719C,female,61,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16140420
+21,point mutation,L858R,male,53,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16140420
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,16152581
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion-insertion,E746_T751delinsV,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,point mutation,E758G,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion-insertion,L747_P753delinsS,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+19,deletion,L747_T751del,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L838P,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+19,point mutation,V742A,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+21,point mutation,V851I,,,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,16152581
+,,WT,male,44,,former-smoker,adenocarcinoma,Gefitinib,second-line,,PD,RECIST,,,,0.6,retrospective case series,16198442
+,,WT,female,56,,former-smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST,,,,2.5,retrospective case series,16198442
+,,WT,female,59,,current-smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST,,,,3.8,retrospective case series,16198442
+,,WT,male,59,,current-smoker,adenocarcinoma,Gefitinib,second-line,,PD,RECIST,,,,1.7,retrospective case series,16198442
+,,WT,male,59,,non-smoker,adenocarcinoma,Gefitinib,second-line,,PD,RECIST,,,,12,retrospective case series,16198442
+,,WT,female,77,,former-smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST,,,,6.2,retrospective case series,16198442
+,,WT,female,78,,non-smoker,adenocarcinoma,Gefitinib,second-line,,PD,RECIST,,,,0.8,retrospective case series,16198442
+,,WT,male,80,,former-smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST,,,,1.2,retrospective case series,16198442
+,,WT,male,64,,current-smoker,Large cell neuroendocrine carcinoma,Gefitinib,third-line,,PD,RECIST,,,,3.2,retrospective case series,16198442
+,,WT,female,69,,non-smoker,squamous cell carcinoma,Gefitinib,third-line,,PD,RECIST,,,,3.4,retrospective case series,16198442
+,,WT,male,71,,former-smoker,squamous cell carcinoma,Gefitinib,second-line,,SD,RECIST,,,,9,retrospective case series,16198442
+19,deletion,E746_A750del,female,67,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,16.2,prospective clinical trial,16382114
+19,deletion,E746_A750del,male,68,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,14.9,prospective clinical trial,16382114
+19,deletion and point mutation,E746V+L747_S752del,female,54,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,5.6,prospective clinical trial,16382114
+21,point mutation,L858R,female,57,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,25.4,prospective clinical trial,16382114
+,,WT,male,45,,current-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,,,16.2,prospective clinical trial,16382114
+,,WT,male,54,,current-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,,,9.7,prospective clinical trial,16382114
+,,WT,male,59,,current-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,,,14.7,prospective clinical trial,16382114
+,,WT,male,59,,current-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,,,24.9,prospective clinical trial,16382114
+,,WT,female,61,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,,16.3,prospective clinical trial,16382114
+,,WT,male,61,,current-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,,,7.5,prospective clinical trial,16382114
+,,WT,male,61,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,,2.4,prospective clinical trial,16382114
+,,WT,female,61,,current-smoker,squamous cell carcinoma,Gefitinib,first-line,,PD,RECIST,,,,3.4,prospective clinical trial,16382114
+,,WT,male,67,,current-smoker,squamous cell carcinoma,Gefitinib,first-line,,SD,RECIST,,,,2.4,prospective clinical trial,16382114
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+19,deletion,E746_A750del,female,,,,NSCLC,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+19,deletion and point mutation,E746V+L747_S752del,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+18,point mutation,G719C,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+18 and 21,point mutation,G719S+L861Q,female,,,,NSCLC,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+19,deletion,L747_A750del,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+19,point mutation,L747_S752del+P753S+A755G,female,,,,Bronchioloalveolar carcinoma,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+21,point mutation,L858R,female,,,,Bronchioloalveolar carcinoma,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+21,point mutation,L858R,female,,,,NSCLC,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,16467085
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,male,,,,Bronchioloalveolar carcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,16467085
+,,WT,male,,,,Bronchioloalveolar carcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,NSCLC,Gefitinib,,,PR,WHO,,,,,retrospective case series,16467085
+,,WT,male,,,,NSCLC,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,male,,,,NSCLC,Gefitinib,,,PD,WHO,,,,,retrospective case series,16467085
+,,WT,female,,,,squamous cell carcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,16467085
+,,WT,male,38,,,adenocarcinoma,Gefitinib,second-line,0,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,male,52,,,adenocarcinoma,Gefitinib,second-line,1,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,female,58,,,adenocarcinoma,Gefitinib,second-line,0,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,male,63,,,adenocarcinoma,Gefitinib,second-line,2,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,female,58,,,squamous cell carcinoma,Gefitinib,second-line,0,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,female,62,,,squamous cell carcinoma,Gefitinib,second-line,2,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,male,68,,,squamous cell carcinoma,Gefitinib,second-line,2,SD,RECIST,,,,,prospective clinical trial,16575012
+,,WT,female,69,,,squamous cell carcinoma,Gefitinib,second-line,0,PR,RECIST,,,,,prospective clinical trial,16575012
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,16818687
+19,deletion,E746_A750del,male,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective clinical trial,16818687
+19,deletion,E746_A750del,male,,,,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16818687
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,16818687
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective clinical trial,16818687
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16818687
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16818687
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16818687
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16818687
+,,WT,male,,,,large-cell carcinoma,Gefitinib,,,SD,RECIST,,,,,prospective clinical trial,16818687
+,,WT,female,,,,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16818687
+19,deletion,E746_A750del,female,62,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,16827805
+,,WT,female,40,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective clinical trial,16827805
+,,WT,female,39,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16827805
+,,WT,male,65,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective clinical trial,16827805
+19,deletion,E746_A750del,male,61,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,16827805
+19,deletion,E746_A750del,male,65,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,16827805
+19,deletion,E746_A750del,male,60,,current-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,16827805
+21,point mutation,A839T,female,59,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,13.4,retrospective case series,16870303
+21,point mutation,A871T,male,33,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,10.7,retrospective case series,16870303
+19,deletion,E746_A750del,male,50,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,11.2,retrospective case series,16870303
+19,deletion-insertion,E746_T751delinsA,female,56,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,5.7,retrospective case series,16870303
+19,deletion-insertion,E746_T751delinsA,female,57,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,8.9,retrospective case series,16870303
+18 and 21,point mutation,F712S+D855G+E868G,female,59,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,7.9,retrospective case series,16870303
+21,point mutation,G857R,female,70,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,13.6,retrospective case series,16870303
+19,point mutation,I744M,female,55,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,2.5,retrospective case series,16870303
+21,point mutation,K846R,male,60,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,21.1,retrospective case series,16870303
+19,deletion-insertion,L747_A750delinsP,female,58,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,17.3,retrospective case series,16870303
+21,point mutation,L838P+E868G,female,59,,non-smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,2.8,retrospective case series,16870303
+21,point mutation,L858R,male,37,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,13,retrospective case series,16870303
+21,point mutation,L858R,female,37,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,6.9,retrospective case series,16870303
+21,point mutation,L858R,female,69,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,6.3,retrospective case series,16870303
+21,point mutation,L858R,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,4.5,retrospective case series,16870303
+21,point mutation,L858R,male,72,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,4,retrospective case series,16870303
+21,point mutation,L858R,male,75,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,7.9,retrospective case series,16870303
+21,point mutation,L858R,female,81,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,9.2,retrospective case series,16870303
+21,point mutation,L858R,female,33,,non-smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,RECIST,,,,13,retrospective case series,16870303
+21,point mutation,L858R,female,75,,non-smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,RECIST,,,,15.2,retrospective case series,16870303
+21,point mutation,L858R,male,75,,former-smoker,squamous cell carcinoma,Gefitinib,,,SD,RECIST,,,,10,retrospective case series,16870303
+21,point mutation,L861Q,male,77,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,14,retrospective case series,16870303
+18,point mutation,P699S,female,75,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,13.3,retrospective case series,16870303
+21,point mutation,R836C,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,19.6,retrospective case series,16870303
+20,point mutation,V765M+L798H+K806E+L814P,male,51,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,9.5,retrospective case series,16870303
+20,point mutation,V765M+L798H+K806E+L814P,male,67,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,15.5,retrospective case series,16870303
+20,point mutation,V765M+L798H+K806E+L814P,female,70,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,16,retrospective case series,16870303
+20,point mutation,S768I+V769L,male,61,Asian,smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,1.4,,retrospective case series,17045698
+19,deletion,E746_A750del,female,47,,non-smoker,adenocarcinoma,Gefitinib,first-line,,CR,RECIST,,16.8+,,16.8+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,52,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,7.1,,7.1+,prospective clinical trial,17047648
+19,deletion,E746_A750del,male,65,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,0.9,,5.4+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,67,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,12.8+,,12.8+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,68,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,7.5,,14.7+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,69,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,7.0+,,7.0+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,80,,non-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,8.9,,13.6+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,63,,former-smoker,squamous cell carcinoma,Gefitinib,first-line,,PD,RECIST,,0.5,,6.9,prospective clinical trial,17047648
+19,deletion-insertion,E746_S752delinsV,female,72,,non-smoker,adenocarcinoma,Gefitinib,first-line,,CR,RECIST,,8.3,,14.8+,prospective clinical trial,17047648
+19,deletion-insertion,L747_P753delinsS,female,51,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,11.3,,12.7+,prospective clinical trial,17047648
+19,deletion-insertion,L747_P753delinsS,female,57,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,12.7+,,12.7+,prospective clinical trial,17047648
+19,deletion-insertion,L747_P753delinsS,female,65,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,11.9,,11.9+,prospective clinical trial,17047648
+19,deletion-insertion,L747_P753delinsS,female,81,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,2.6,,7.5+,prospective clinical trial,17047648
+21,point mutation,L858R,male,70,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,1.9,,3.1,prospective clinical trial,17047648
+21,point mutation,L858R,male,78,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,13.4+,,13.4+,prospective clinical trial,17047648
+21,point mutation,L858R,female,83,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,11.7+,,11.7+,prospective clinical trial,17047648
+19,deletion,E746_A750del,female,64,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,,,,16.2,17.6,retrospective case series,17047654
+19,deletion,E746_A750del,female,60,,non-smoker,adenocarcinoma,Gefitinib,,4,PR,,,,16.1,16.1,retrospective case series,17047654
+19 and 21,deletion and point mutation,E746_A750del+F856L,female,66,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,,,,40.5,40.5,retrospective case series,17047654
+19,deletion,L747_S752del,female,46,,non-smoker,adenocarcinoma,Gefitinib,,2,PR,,,,29.2,29.3,retrospective case series,17047654
+19,deletion,L747_S752del,female,56,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,,,,17.2,17.2,retrospective case series,17047654
+19,deletion,L747_T751del,female,64,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,,,,21,21,retrospective case series,17047654
+19,deletion,L747_T751del,male,58,,smoker,NSCLC,Gefitinib,,1,PR,,,,7.3,7.3,retrospective case series,17047654
+21,point mutation,L858R,female,61,,smoker,adenocarcinoma,Gefitinib,,1,PR,,,,9.8,9.8,retrospective case series,17047654
+,,WT,male,45,,smoker,adenocarcinoma,Gefitinib,,1,SD,,,,28.4,28.4,retrospective case series,17047654
+,,WT,female,71,,non-smoker,adenocarcinoma,Gefitinib,,1,SD,,,,23,23,retrospective case series,17047654
+,,WT,female,67,,non-smoker,adenocarcinoma,Gefitinib,,1,SD,,,,15.9,15.9,retrospective case series,17047654
+,,WT,male,70,,smoker,adenocarcinoma,Gefitinib,,1,SD,,,,14.5,14.5,retrospective case series,17047654
+,,WT,male,59,,smoker,adenocarcinoma,Gefitinib,,1,SD,,,,11.3,11.7,retrospective case series,17047654
+,,WT,female,70,,non-smoker,adenocarcinoma,Gefitinib,,3,SD,,,,11.3,11.3,retrospective case series,17047654
+,,WT,female,68,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,,,,10.3,10.3,retrospective case series,17047654
+,,WT,male,71,,smoker,adenocarcinoma,Gefitinib,,1,PR,,,,8.5,8.5,retrospective case series,17047654
+,,WT,female,54,,smoker,adenocarcinoma,Gefitinib,,1,SD,,,,4.6,4.7,retrospective case series,17047654
+,,WT,male,70,,smoker,Undifferentiated carcinoma,Gefitinib,,3,SD,,,,3.6,9.1,retrospective case series,17047654
+,,WT,female,72,,non-smoker,adenocarcinoma,Gefitinib,,1,PD,,,,0.8,20.4,retrospective case series,17047654
+,,WT,female,81,,smoker,adenocarcinoma,Gefitinib,,2,PD,,,,0.8,2.3,retrospective case series,17047654
+,,WT,male,68,,smoker,adenocarcinoma,Gefitinib,,1,PD,,,,0.7,10.9,retrospective case series,17047654
+,,WT,male,62,,smoker,adenocarcinoma,Gefitinib,,1,PD,,,,0.5,5.2,retrospective case series,17047654
+19,deletion,E746_A750del,female,34,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17051834
+19,deletion,E746_A750del,female,57,,,NSCLC,Gefitinib,,,SD,RECIST,,,,,retrospective case series,17051834
+19,deletion,E746_A750del,female,77,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17051834
+21,point mutation,L858R,male,68,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17051834
+21,point mutation,L861Q,female,68,,,NSCLC,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17051834
+,,WT,female,40,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17051834
+,,WT,male,49,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17051834
+,,WT,male,50,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17051834
+,,WT,male,62,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17051834
+,,WT,female,67,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17051834
+,,WT,male,83,,,NSCLC,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17051834
+19,deletion,E746_A750del,female,58,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17060940
+19,deletion,E746_A750del,male,60,,current-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17060940
+19,deletion,E746_A750del,male,61,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17060940
+19,deletion,E746_A750del,male,65,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17060940
+19,deletion,E746_A750del,female,80,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17060940
+21,point mutation,L858R,female,65,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,39,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,40,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,56,,current-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,57,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,58,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,59,,current-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,61,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,65,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,67,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,69,,former-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,74,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,76,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,77,,current-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,female,82,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+,,WT,male,62,,former-smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17060940
+19 and 21,point mutation,D761Y+L858R,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,1.8,9.62,retrospective case series,17192902
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,18.8,21.5,retrospective case series,17192902
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,11,11,retrospective case series,17192902
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,9.4,10.62,retrospective case series,17192902
+19,deletion,E746_A750del,male,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,7.8,8.92,retrospective case series,17192902
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,3,3,retrospective case series,17192902
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,3,3,retrospective case series,17192902
+19,deletion,E746_A750del,male,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,2.4,2.42,retrospective case series,17192902
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,1.9,2.6,retrospective case series,17192902
+19,deletion,E746_A750del,male,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,1,2.6,retrospective case series,17192902
+19,deletion-insertion,E746_A750delinsQ,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,19.6,19.62,retrospective case series,17192902
+19,deletion-insertion,E746_S752delinsI,male,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,37.4,37.4,retrospective case series,17192902
+18,point mutation,G719S,male,,,,squamous cell carcinoma,Gefitinib,,,SD,WHO,,,6.3,10.8,retrospective case series,17192902
+18 and 21,point mutation,G721S+L858R,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,3,3,retrospective case series,17192902
+19,deletion-insertion,L747_A750delinsP,female,,,,adenocarcinoma,Gefitinib,,,CR,WHO,,,36.1,36.12,retrospective case series,17192902
+19,deletion-insertion,L747_A750delinsP,male,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,30.8,30.8,retrospective case series,17192902
+19,deletion-insertion,L747_A750delinsP,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,6.1,7.42,retrospective case series,17192902
+19,deletion,L747_S752del,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,10.4,25.62,retrospective case series,17192902
+20,point mutation,L777G,female,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,1,2.62,retrospective case series,17192902
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,23.9,58.5,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,22.5,22.5,retrospective case series,17192902
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,14,16.5,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,13.9,13.92,retrospective case series,17192902
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,12.3,15.7,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,SD,WHO,,,11.8,11.8,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,9.2,37.9,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,6.7,24.1,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,5.6,10.4,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,3.3,3.3,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,2.2,2.2,retrospective case series,17192902
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,1.8,1.8,retrospective case series,17192902
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,0.4,0.62,retrospective case series,17192902
+19,deletion,S752_I759del,male,,,,adenocarcinoma,Gefitinib,,,PR,WHO,,,11.7,24.22,retrospective case series,17192902
+20 and 21,point mutation,T790M+L858R,female,,,,adenosquamous carcinoma,Gefitinib,,,SD,WHO,,,1.6,8.72,retrospective case series,17192902
+20,insertion,V769insGVV,male,,,,adenocarcinoma,Gefitinib,,,PD,WHO,,,0.8,1.32,retrospective case series,17192902
+21,point mutation,L858R,male,72,,former-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,10,,14.6,prospective clinical trial,17228019
+21,point mutation,L858R,female,78,,former-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,9.7,,13.3+,prospective clinical trial,17228019
+21,point mutation,L858R,female,78,,non-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,13,,14.7,prospective clinical trial,17228019
+21,point mutation,L858R,female,75,,former-smoker,NSCLC,Erlotinib,,,SD,RECIST,,3.7,,12+,prospective clinical trial,17228019
+21,point mutation,L858R,male,73,,former-smoker,squamous cell carcinoma,Erlotinib,,,SD,RECIST,,3.4,,4.9,prospective clinical trial,17228019
+19,deletion,E746_A750del,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,18.3,18.8,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,17.9,18.2,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,15.3,18.9,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,12.9,20,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6.6,6.6,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,4.3,12.9,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3,3.6,retrospective case series,17387741
+19,deletion,E746_A750del,male,,,smoker,squamous cell carcinoma,Gefitinib,,,SD,RECIST,,,1.1,6.8,retrospective case series,17387741
+19,deletion,E746_A750del,male,,,smoker,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,1,5.4,retrospective case series,17387741
+19,deletion,E746_A750del,male,,,smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,0.9,2.7,retrospective case series,17387741
+19,deletion and point mutation,E746I+L747_S752del,female,,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,14.4,14.4,retrospective case series,17387741
+19,deletion,L747_S752del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.3,22.4,retrospective case series,17387741
+21,point mutation,L858R,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,23.9,23.7,retrospective case series,17387741
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,13.3,13.3,retrospective case series,17387741
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,7.7,9.7,retrospective case series,17387741
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6.5,33.4,retrospective case series,17387741
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,0.9,13.6,retrospective case series,17387741
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17409866
+19,deletion,E746_A750del,male,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,17409866
+19,deletion,E746_A750del,male,,,,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17409866
+,,WT,female,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,17409866
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+,,WT,male,,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+,,WT,male,,,,large-cell carcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,17409866
+,,WT,female,,,,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+,,WT,male,,,,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17409866
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,,,,,18,retrospective case series,17537621
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,,,,,19.5+,retrospective case series,17537621
+19,deletion,E746_A750del,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,,,,,13.5+,retrospective case series,17537621
+19,deletion,E746_A750del,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,,,,,14.3+,retrospective case series,17537621
+19,deletion,E746_A750del,male,,,smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,,,,,12.1,retrospective case series,17537621
+19,deletion,E746_A750del,male,,,smoker,large-cell carcinoma,Gefitinib,,,PD,,,,,7.3,retrospective case series,17537621
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,CR,,,,,26.3,retrospective case series,17537621
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,,,,,4.2+,retrospective case series,17537621
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,,,,,8.5,retrospective case series,17537621
+21,point mutation,L858R,male,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,,,,,8.7,retrospective case series,17537621
+21,point mutation,L858R,male,,,smoker,adenocarcinoma,Gefitinib,,,SD,,,,,8.1,retrospective case series,17537621
+21,point mutation,L858R,male,,,smoker,Bronchioloalveolar carcinoma,Gefitinib,,,SD,,,,,10.5,retrospective case series,17537621
+21,point mutation,L858R,male,,,smoker,squamous cell carcinoma,Gefitinib,,,PD,,,,,2.2,retrospective case series,17537621
+,,WT,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,,,,,9.6+,retrospective case series,17537621
+,,WT,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,,,,,19.2,retrospective case series,17537621
+,,WT,female,,,non-smoker,adenocarcinoma,Gefitinib,,,CR,,,,,35.4+,retrospective case series,17537621
+,,WT,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,,,,,5.8,retrospective case series,17537621
+,,WT,male,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,,,,,9,retrospective case series,17537621
+,,WT,male,,,non-smoker,adenocarcinoma,Gefitinib,,,PD,,,,,4.5,retrospective case series,17537621
+,,WT,female,,,smoker,adenocarcinoma,Gefitinib,,,SD,,,,,6.3+,retrospective case series,17537621
+,,WT,male,,,smoker,Bronchioloalveolar carcinoma,Gefitinib,,,SD,,,,,3.8,retrospective case series,17537621
+,,WT,male,,,smoker,squamous cell carcinoma,Gefitinib,,,PD,,,,,6.9,retrospective case series,17537621
+,,WT,male,,,former-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,PR,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17538169
+,,WT,female,,,non-smoker,NSCLC,Gefitinib,,,SD,RECIST,,,,,prospective cohort study,17538169
+,,WT,male,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,male,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,male,,,non-smoker,NSCLC,Gefitinib,,,PD,RECIST,,,,,prospective cohort study,17538169
+,,WT,male,,,current-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,3.5,,,prospective clinical trial,17577030
+,,WT,male,,,current-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,2.1,,,prospective clinical trial,17577030
+,,WT,female,,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,6,,,prospective clinical trial,17577030
+,,WT,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,6,,,prospective clinical trial,17577030
+,,WT,male,,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,4.7,,,prospective clinical trial,17577030
+,,WT,male,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,6.8,,,prospective clinical trial,17577030
+,,WT,female,,,non-smoker,Bronchioloalveolar carcinoma,Erlotinib,,,SD,RECIST,,5,,,prospective clinical trial,17577030
+,,WT,female,,,non-smoker,Bronchioloalveolar carcinoma,Gefitinib,,,SD,RECIST,,18.3,,,prospective clinical trial,17577030
+20,point mutation,G779S,male,,Caucasian,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,17626639
+21,point mutation,L858R,female,,Asian,non-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,17626639
+20 and 21,point mutation,S768I+L858R,female,,Asian,non-smoker,adenocarcinoma,Gefitinib,,,PR,WHO,,,,,retrospective case series,17626639
+20,point mutation,V774L,female,,Asian,,adenocarcinoma,Gefitinib,,,PR,WHO,,,,,retrospective case series,17626639
+,,WT,female,,Caucasian,smoker,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,17626639
+,,WT,male,,Asian,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,17626639
+,,WT,male,,Caucasian,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,17626639
+,,WT,male,,Caucasian,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,17626639
+,,WT,female,,Caucasian,smoker,squamous cell carcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,17626639
+,,WT,male,,Caucasian,smoker,squamous cell carcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,17626639
+19,deletion,E746_A750del,male,44,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17848912
+19,deletion,E746_A750del,female,56,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17848912
+19,deletion,E746_A750del,female,62,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17848912
+19,deletion,E746_A750del,male,59,,current-smoker,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,17848912
+19,deletion,E746_T751del,female,57,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,17848912
+21,point mutation,L858R,female,62,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17848912
+21,point mutation,L858R,female,63,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17848912
+21,point mutation,L858R,male,79,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,17848912
+,,WT,male,44,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,18.5+,prospective clinical trial,17975165
+18 and 21,point mutation,E709K+L858R,female,,,non-smoker,squamous cell carcinoma,Gefitinib,,,PR,WHO,,,,,retrospective case series,18000506
+18,point mutation,E711K,male,,,smoker,squamous cell carcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,18000506
+19,point mutation,E746V,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+18,point mutation,G719D,male,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,G857E,male,,,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,G863S,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,G874S,female,,,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,K860E,male,,,smoker,squamous cell carcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,18000506
+18,point mutation,L692P,male,,,smoker,squamous cell carcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,18000506
+18,point mutation,L703F,female,,,smoker,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,18000506
+19,point mutation,L747S,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+18,point mutation,P691S,male,,,former-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,T847A+G863S,male,,,smoker,adenocarcinoma,Gefitinib,,,PD,WHO,,,,,retrospective case series,18000506
+18,point mutation,V726M,male,,,smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,V843I,male,,,former-smoker,squamous cell carcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+21,point mutation,V843I+L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+18,point mutation,Y727H,male,,,non-smoker,squamous cell carcinoma,Gefitinib,,,SD,WHO,,,,,retrospective case series,18000506
+19,deletion-insertion,A750_E758delinsP,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+18,point mutation,E709A+G719C,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+19,deletion,E746_A750del,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+19,deletion,E746_A750del,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+19,deletion,E746_A750del,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+19,deletion,E746_A750del,,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,18261621
+19,deletion-insertion,E746_T751delinsL,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18261621
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,18261621
+21,deletion-insertion,A859_L883delinsV,male,,,,adenosquamous carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,CR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,CR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E746_A750del,male,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion-insertion,E746_T751delinsIP,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,E750_K758del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+18 and 21,point mutation,G719S+L861Q,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+19,deletion,L747_T751del,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,CR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,CR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,female,,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,CR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,male,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,18325048
+21,point mutation,L858R,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,PR,,,,,,retrospective case series,18379370
+21,point mutation,A871G,female,51,Asian,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,4.2,,retrospective case series,18418018
+19,deletion,E746_A750del,female,55,Asian,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,17.7,,retrospective case series,18418018
+19,deletion,E746_A750del,male,54,Asian,smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PR,RECIST,,,14.3,,retrospective case series,18418018
+19,deletion,E746_A750del,male,51,Asian,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,13,,retrospective case series,18418018
+19,deletion,E746_A750del,male,53,Asian,smoker,Bronchioloalveolar carcinoma,Gefitinib,,,CR,RECIST,,,9.8,,retrospective case series,18418018
+19,deletion,E746_A750del,male,50,Asian,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4,,retrospective case series,18418018
+19,deletion,E746_A750del,male,52,Asian,smoker,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,18418018
+19 and 21,deletion and point mutation,E746_A750del+L858R,male,58,Asian,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,21.4,,retrospective case series,18418018
+19 and 21,deletion and point mutation,E746_A750del+L858R,male,58,Asian,non-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,,19.6,,retrospective case series,18418018
+21,point mutation,L858R,male,54,Asian,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,10.5,,retrospective case series,18418018
+21,point mutation,L858R,female,71,Asian,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,7,,retrospective case series,18418018
+21,point mutation,L858R,male,47,Asian,smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,18418018
+21,point mutation,L861Q,male,51,Asian,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.2,,retrospective case series,18418018
+,,WT,female,61,Asian,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,18.9,,retrospective case series,18418018
+,,WT,female,61,Asian,non-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,,14.6,,retrospective case series,18418018
+,,WT,male,56,Asian,non-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,,9,,retrospective case series,18418018
+,,WT,female,65,Asian,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,6.3,,retrospective case series,18418018
+,,WT,female,54,Asian,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,5.8,,retrospective case series,18418018
+,,WT,female,40,Asian,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4.4,,retrospective case series,18418018
+,,WT,male,24,Asian,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,18418018
+,,WT,male,49,Asian,smoker,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,18418018
+,,WT,male,64,Asian,smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,,,retrospective case series,18418018
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,E746_A750del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,H850D+L858R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,H850D+L858R,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+19,deletion-insertion,L747_A750delinsP,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion-insertion,L747_A750delinsP,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion-insertion,L747_A750delinsP,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_E749del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_E749del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_P753del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_P753del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_P753del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_P753del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+19,deletion,L747_T751del,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,L861R,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+20 and 21,point mutation,R776H+L861Q,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+21,point mutation,R831H+L861Q,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+20 and 21,point mutation,S768I+L858R,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PR,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,SD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+,,WT,,,,,NSCLC,Gefitinib,first-line,,PD,RECIST,,,,,prospective clinical trial,18509184
+20,duplication,A767dupASV,female,75,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.9,5,retrospective case series,18676761
+20,insertion,D770insD,female,57,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.1,10,retrospective case series,18676761
+18 and 20,point mutation,G719A+S768I,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.2,2,retrospective case series,18676761
+20 and 21,point mutation,G779S+L858R,female,76,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,14.2,23,retrospective case series,18676761
+20,point mutation,K806E,male,77,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.6,28,retrospective case series,18676761
+20,insertion and point mutation,P772insYNP+H773Y,female,49,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.9,30,retrospective case series,18676761
+20 and 21,point mutation,R776G+L858R,female,87,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.2,1,retrospective case series,18676761
+20 and 21,point mutation,R776H+L858R,male,52,,current-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,16.3,32,retrospective case series,18676761
+20 and 21,point mutation,R776H+L861Q,female,65,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,2.1,7,retrospective case series,18676761
+20,duplication,S768dupSVD,female,40,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,4,22,retrospective case series,18676761
+20,duplication,S768dupSVD,female,63,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.9,3,retrospective case series,18676761
+20,duplication,S768dupSVD,female,73,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.2,3,retrospective case series,18676761
+20 and 21,point mutation,S768I+L858R,female,45,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,20.3,20,retrospective case series,18676761
+20 and 21,point mutation,T790M+L858R,female,55,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.1,30,retrospective case series,18676761
+20 and 21,point mutation,T790M+L858R,female,80,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.1,7,retrospective case series,18676761
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,CR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,prospective clinical trial,18978556
+19,deletion and point mutation,L747_E749del+A750P,,,,,NSCLC,Erlotinib,,,CR,,,,,,prospective clinical trial,18978556
+21,point mutation,L858R,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+21,point mutation,L858R,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+21,point mutation,L858R,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+21,point mutation,L858R,,,,,NSCLC,Erlotinib,,,SD,,,,,,prospective clinical trial,18978556
+21,point mutation,L861R,,,,,NSCLC,Erlotinib,,,PD,,,,,,prospective clinical trial,18978556
+19,deletion,E746_A750del,female,75,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,26,,retrospective case series,18981003
+19,deletion,E746_A750del,female,60,,former-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,17,,retrospective case series,18981003
+19,deletion,E746_A750del,male,60,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,16,,retrospective case series,18981003
+19,deletion,E746_A750del,female,62,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,11,,retrospective case series,18981003
+19,deletion,E746_A750del,male,80,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,11,,retrospective case series,18981003
+19,deletion,E746_A750del,female,52,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,10,,retrospective case series,18981003
+19,deletion,E746_A750del,male,60,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,4,,retrospective case series,18981003
+19,deletion,E746_A750del,male,70,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2,,retrospective case series,18981003
+19 and 20,deletion and point mutation,E746_A750del+T790M,female,62,,non-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,6,,retrospective case series,18981003
+19 and 20,deletion and point mutation,E746_A750del+T790M,female,52,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,3,,retrospective case series,18981003
+19 and 20,deletion and point mutation,E746_A750del+T790M,male,80,,former-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,2,,retrospective case series,18981003
+19,deletion,L747_S752del,male,71,,former-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,,24,,retrospective case series,18981003
+19 and 20,deletion and point mutation,L747_S752del+T790M,male,71,,former-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,1,,retrospective case series,18981003
+19,deletion-insertion,L747_T751delinsP,female,45,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,16.5,,retrospective case series,18981003
+19,deletion-insertion,L747_T751delinsP,female,56,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,12,,retrospective case series,18981003
+19,deletion-insertion,L747_T751delinsP,female,49,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,3,,retrospective case series,18981003
+19 and 20,deletion-insertion and point mutation,L747_T751delinsP+T790M,female,56,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,2,,retrospective case series,18981003
+19 and 21,point mutation,L747S+L858R,female,74,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,6,,retrospective case series,18981003
+21,point mutation,L858R,female,74,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,40,,retrospective case series,18981003
+21,point mutation,L858R,female,77,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,14,,retrospective case series,18981003
+21,point mutation,L858R,male,64,,non-smoker,NSCLC,Gefitinib,,,PR,RECIST,,,7,,retrospective case series,18981003
+21,point mutation,L858R,male,43,,non-smoker,NSCLC,Gefitinib,,,PR,RECIST,,,4,,retrospective case series,18981003
+21,point mutation,L861Q,female,69,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4,,retrospective case series,18981003
+19,deletion,E746_A750del,male,48,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,9.9,,,prospective clinical trial,18992959
+19,deletion,E746_A750del,male,55,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,5.8,,,prospective clinical trial,18992959
+19,deletion,E746_A750del,male,63,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,7.7,,,prospective clinical trial,18992959
+19,deletion,E746_A750del,female,65,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,3.7,,,prospective clinical trial,18992959
+19,deletion,E746_A750del,male,68,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,0.8,,,prospective clinical trial,18992959
+19,deletion,E746_A750del,male,77,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,3.8,,,prospective clinical trial,18992959
+19 and 20,deletion and point mutation,E746_A750del+G796A,female,71,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,2.6,,,prospective clinical trial,18992959
+19 and 21,deletion and point mutation,E746_A750del+L858R,male,75,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,10.5,,,prospective clinical trial,18992959
+19,deletion,E746_E749del,male,53,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,11.7,,,prospective clinical trial,18992959
+21,point mutation,L858R,male,45,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,4.2,,,prospective clinical trial,18992959
+21,point mutation,L858R,female,53,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,15.5,,,prospective clinical trial,18992959
+21,point mutation,L858R,male,55,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,18992959
+21,point mutation,L858R,female,57,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,7.3,,,prospective clinical trial,18992959
+21,point mutation,L858R,male,65,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,8.3,,,prospective clinical trial,18992959
+21,point mutation,L858R,male,66,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,2.3,,,prospective clinical trial,18992959
+21,point mutation,L858R,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,18992959
+21,point mutation,L858R,female,73,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,1.7,,,prospective clinical trial,18992959
+21,point mutation,L858R,female,73,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,18992959
+21,point mutation,L858R,female,84,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,9.8,,,prospective clinical trial,18992959
+18,point mutation,A702S,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,7.0+,,7.0+,retrospective case series,19020901
+18,point mutation,A702S,female,,,non-smoker,squamous cell carcinoma,Gefitinib,,,PR,RECIST,,8.5,,14.0+,retrospective case series,19020901
+19,deletion,E746_A750del,male,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,8.1,,13.9,retrospective case series,19020901
+19,deletion,E746_A750del,female,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,6.0+,,6.0+,retrospective case series,19020901
+19,deletion,E746_A750del,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,13.0+,,13.0+,retrospective case series,19020901
+19 and 20,deletion and point mutation,E746_A750del+V802F,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,16.0+,,16.0+,retrospective case series,19020901
+19,deletion-insertion,E746_T751delinsA,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,9.2+,,9.2+,retrospective case series,19020901
+18,point mutation,G721A,male,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,6,,9,retrospective case series,19020901
+18,point mutation,G721A,female,,,non-smoker,squamous cell carcinoma,Gefitinib,,,CR,RECIST,,7,,11.0+,retrospective case series,19020901
+19,point mutation,I744V,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,5,,26.0+,retrospective case series,19020901
+18,point mutation,K708M,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,16.3+,,16.3+,retrospective case series,19020901
+19,deletion-insertion,K745_A750delinsK,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,17.4+,,17.4+,retrospective case series,19020901
+19,deletion-insertion,K745_A750delinsK,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,18.1,,18.5,retrospective case series,19020901
+19,deletion-insertion,K745_A750delinsK,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,8,,13.0+,retrospective case series,19020901
+19,deletion-insertion,K745_A750delinsK,male,,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,2.7+,,2.7+,retrospective case series,19020901
+19,deletion-insertion,K745_A750delinsK,male,,,non-smoker,squamous cell carcinoma,Gefitinib,,,SD,RECIST,,11.0+,,11.0+,retrospective case series,19020901
+18,point mutation,L703P,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,15,,15.7,retrospective case series,19020901
+19,deletion,L747_S752del,male,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,26.0+,,26.0+,retrospective case series,19020901
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,20,,24.0+,retrospective case series,19020901
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,6.0+,,6.0+,retrospective case series,19020901
+21,point mutation,L858R,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,8.2,,15.3,retrospective case series,19020901
+21,point mutation,L858R,male,,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,10,,16,retrospective case series,19020901
+21,point mutation,L858R,male,,,smoker,squamous cell carcinoma and adenocarcinoma,Gefitinib,,,PR,RECIST,,5.3+,,5.3+,retrospective case series,19020901
+19,point mutation,R748W,female,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,7.3+,,7.3+,retrospective case series,19020901
+21,point mutation,R832L,male,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,7.0+,,7.0+,retrospective case series,19020901
+20,point mutation,S784P,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,13,,14.0+,retrospective case series,19020901
+23,point mutation,S921R,male,,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,4.6+,,4.6,retrospective case series,19020901
+19,point mutation,V740A,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,12.0+,,12.0+,retrospective case series,19020901
+19,point mutation,V740A,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,8.5,,16.7+,retrospective case series,19020901
+19,point mutation,V740L,female,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,3,,28.0+,retrospective case series,19020901
+19,point mutation,V740L,female,,,non-smoker,adenocarcinoma,Gefitinib,,,CR,RECIST,,4.6+,,4.6+,retrospective case series,19020901
+20 and 21,point mutation,V802F+L858R,male,,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,15.1,,15.2+,retrospective case series,19020901
+19,deletion,E746_A750del,female,,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,7.4,,18.2,prospective clinical trial,19057270
+19 and 21,deletion and point mutation,E746_A750del+V786M,female,,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,9.3+,,30.4,prospective clinical trial,19057270
+19,deletion and point mutation,T751N+S752_I759del,male,,,current-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,7.7,,27+,prospective clinical trial,19057270
+20 and 21,point mutation,T790M+L858R,female,,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,2,,20.1+,prospective clinical trial,19057270
+21,deletion,V834del,male,,,former-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,7.5,,21.6+,prospective clinical trial,19057270
+,,WT,female,,,former-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,2.6,,24.6,prospective clinical trial,19057270
+,,WT,male,,,former-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,0.6,,11.6,prospective clinical trial,19057270
+19 and 21,point mutation,E758G+L858R,male,73.6,,current-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6,13.9,retrospective case series,19060236
+18,point mutation,G719A+S720F,male,62.8,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.1,24.8,retrospective case series,19060236
+18 and 20,point mutation,G719A+S768I,female,66.1,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.6,1.8,retrospective case series,19060236
+18 and 20,point mutation,G719C+S768I,male,78.3,,current-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6.3,6.3,retrospective case series,19060236
+18 and 21,point mutation,G719S+L861Q,female,47.7,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3.1,14.8,retrospective case series,19060236
+20 and 22,point mutation,G779S+L858R,female,76.1,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,18.8,22.4,retrospective case series,19060236
+20 and 21,point mutation,G779S+L858R,female,64,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,12.7,23.1,retrospective case series,19060236
+21,point mutation,H850D+L858R,male,46.6,,former-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3.5,21.6,retrospective case series,19060236
+21,point mutation,H850D+L858R,male,50,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.6,9.9,retrospective case series,19060236
+21,point mutation,K860I+L861Q,male,58.1,,current-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4.2,12.3,retrospective case series,19060236
+21,point mutation,L858R+K860I,female,57.5,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,14.8,14.8,retrospective case series,19060236
+21,point mutation,L858R+L861F,female,66.4,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,5.3,13.5,retrospective case series,19060236
+20 and 21,point mutation,R776H+L858R,male,54.6,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,16,31.4,retrospective case series,19060236
+20 and 21,point mutation,R776H+L861Q,female,65.9,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,1.8,6.7,retrospective case series,19060236
+21,point mutation,R831H+L861Q,female,63.2,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4.9,6.7,retrospective case series,19060236
+20 and 21,point mutation,S768I+L858R,female,45.5,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,19.3,19.3,retrospective case series,19060236
+21,point mutation,V834L+L858R,female,59.3,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,26.1,42.7,retrospective case series,19060236
+,,WT,female,44,,non-smoker,adenocarcinoma,Erlotinib,,2,PD,RECIST,,2.4,,,retrospective case series,19110337
+,,WT,female,44,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,2.8,,,retrospective case series,19110337
+,,WT,female,45,,non-smoker,adenocarcinoma,Erlotinib,,2,PD,RECIST,,1.1,,,retrospective case series,19110337
+,,WT,female,45,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,3.3,,,retrospective case series,19110337
+,,WT,female,49,,non-smoker,adenocarcinoma,Erlotinib,,1,PD,RECIST,,1.7,,,retrospective case series,19110337
+,,WT,female,49,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,2.1,,,retrospective case series,19110337
+,,WT,female,51,,non-smoker,adenocarcinoma,Erlotinib,,3,SD,RECIST,,3.4,,,retrospective case series,19110337
+,,WT,female,51,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,11.9,,,retrospective case series,19110337
+,,WT,female,76,,non-smoker,adenocarcinoma,Erlotinib,,3,PD,RECIST,,0.8,,,retrospective case series,19110337
+,,WT,female,76,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,5.2,,,retrospective case series,19110337
+21,point mutation,L858R,female,58,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,,,retrospective case series,19692934
+19,deletion-insertion,E746_S752delinsV,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,19884551
+19,deletion,L747_S752del,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,19884551
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,prospective clinical trial,19884551
+21,point mutation,L858R,female,79,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,1.1,,4.1,retrospective case series,20075572
+21,point mutation,L858R,male,87,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,13.1,,16.7,retrospective case series,20075572
+21,point mutation,L858R,female,89,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,11.4,,15.2,retrospective case series,20075572
+21,point mutation,L858R,female,62,,non-smoker,adenocarcinoma,Gefitinib,first-line,0,PR,RECIST,,,6.2+,,prospective clinical trial,20502057
+21,point mutation,L858R,female,75,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST,,,4.8+,,prospective clinical trial,20502057
+21,point mutation,L858R,female,66,,non-smoker,adenocarcinoma,Gefitinib,first-line,0,SD,RECIST,,,3.6+,,prospective clinical trial,20502057
+21,point mutation,L858R,female,69,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PR,RECIST,,,3.6+,,prospective clinical trial,20502057
+21,point mutation,L858R,female,54,,non-smoker,adenocarcinoma,Gefitinib,first-line,0,SD,RECIST,,,10.3+,,prospective clinical trial,20502057
+21,point mutation,L858R,female,81,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST,,,10.0+,,prospective clinical trial,20502057
+21,point mutation,L858R,female,79,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST,,,6.8,,prospective clinical trial,20502057
+21,point mutation,L858R,female,69,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST,,,2.2,,prospective clinical trial,20502057
+19,deletion,E746_A750del,female,64,,non-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST,,,8+,,prospective clinical trial,20512075
+19,deletion,E746_A750del,male,55,,former-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST,,,6,,prospective clinical trial,20512075
+19 and 20,deletion and point mutation,L747_T751del+R776S,female,65,,former-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST,,,11+,,prospective clinical trial,20512075
+21,point mutation,L858R,female,86,,former-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST,,,35,,prospective clinical trial,20512075
+21,point mutation,L858R,male,46,,former-smoker,NSCLC,Erlotinib,second-line,,SD,RECIST,,,4,,prospective clinical trial,20512075
+20,point mutation,S768I,male,81,Asian,smoker,adenocarcinoma,Gefitinib,second-line,,PR,RECIST,,,15.2,,retrospective case series,20522446
+19,deletion-insertion,E746_T751delinsV,female,67,,non-smoker,adenocarcinoma,Gefitinib,second-line,,PR,RECIST,,,15.3,,retrospective case series,20630828
+19,deletion-insertion,E746_T751delinsV,female,39,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,4.3,,retrospective case series,20630828
+21,point mutation,L858R,female,64,,non-smoker,adenocarcinoma,Gefitinib,third-line,,SD,RECIST,,,5.3,,retrospective case series,20630828
+,,WT,female,45,,non-smoker,adenocarcinoma,Gefitinib,fourth-line,,PD,RECIST,,,2.5,,retrospective case series,20630828
+,,WT,female,70,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,1.5,,retrospective case series,20630828
+,,WT,female,49,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,0.8,,retrospective case series,20630828
+,,WT,female,39,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,0.5,,retrospective case series,20630828
+18 and 21,point mutation,G719S+L858R,female,60,,non-smoker,adenocarcinoma,Gefitinib,,1,SD,RECIST,,,6.6,12.8,retrospective case series,20808254
+18 and 21,point mutation,G719S+L858R,male,62,,current-smoker,adenocarcinoma,Gefitinib,,1,PD,RECIST,,,1.1,4.7,retrospective case series,20808254
+18 and 21,point mutation,G719S+L858R,male,77,,current-smoker,squamous cell carcinoma,Gefitinib,,0,PD,RECIST,,,0.7,12.7,retrospective case series,20808254
+21,point mutation,L833V+L858R,female,55,,non-smoker,adenocarcinoma,Gefitinib,,0,PR,RECIST,,,25.5,25.5,retrospective case series,20808254
+,,WT,male,71,,smoker,NSCLC,Gefitinib,,,SD,RECIST,,,5.7,5.9,prospective clinical trial,20828860
+,,WT,male,69,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,4.5,5.9,prospective clinical trial,20828860
+,,WT,male,63,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.4,11.5,prospective clinical trial,20828860
+,,WT,male,67,,smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,1.9,2.5,prospective clinical trial,20828860
+,,WT,male,59,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.5,3.1,prospective clinical trial,20828860
+,,WT,male,68,,smoker,large-cell carcinoma,Gefitinib,,,PD,RECIST,,,0.5,6.3,prospective clinical trial,20828860
+19,deletion,E746_A750del,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,21102267
+19,deletion,E746_A750del,female,64,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,,,retrospective case series,21273181
+19,deletion,E746_A750del,female,74,,non-smoker,adenocarcinoma,Gefitinib,,2,SD,RECIST,,,,,retrospective case series,21273181
+19,deletion,E746_A750del,male,77,,former-smoker,adenocarcinoma,Gefitinib,,1,SD,RECIST,,,,,retrospective case series,21273181
+21,point mutation,L858R,female,62,,non-smoker,adenocarcinoma,Gefitinib,,0,SD,RECIST,,,,,retrospective case series,21273181
+21,point mutation,L858R,female,66,,non-smoker,adenocarcinoma,Gefitinib,,1,SD,RECIST,,,,,retrospective case series,21273181
+21,point mutation,L858R,female,75,,non-smoker,adenocarcinoma,Gefitinib,,2,PR,RECIST,,,,,retrospective case series,21273181
+21,point mutation,L858R,female,77,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,,,retrospective case series,21273181
+,,WT,female,56,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,,,retrospective case series,21273181
+,,WT,female,59,,current-smoker,adenocarcinoma,Gefitinib,,1,SD,RECIST,,,,,retrospective case series,21273181
+,,WT,female,76,,non-smoker,adenocarcinoma,Gefitinib,,1,SD,RECIST,,,,,retrospective case series,21273181
+,,WT,female,79,,non-smoker,adenocarcinoma,Gefitinib,,1,SD,RECIST,,,,,retrospective case series,21273181
+19,deletion-insertion,L747_P753delinsS,,63,,,NSCLC,Gefitinib,,,SD,,,12.13,,12.13,retrospective case series,21274259
+19,deletion-insertion,L747_P753delinsS,,63,,,NSCLC,Gefitinib,,,SD,,,7.74,,9.54,retrospective case series,21274259
+21,point mutation,R836R+V843I,,72,,,NSCLC,Gefitinib,,,SD,,,8.46,,11.7,retrospective case series,21274259
+,,WT,,38,,,NSCLC,Gefitinib,,,PD,,,1.25,,8.85,retrospective case series,21274259
+,,WT,,50,,,NSCLC,Gefitinib,,,PR,,,2.2,,5.7,retrospective case series,21274259
+,,WT,,59,,,NSCLC,Gefitinib,,,SD,,,1.48,,3.8,retrospective case series,21274259
+,,WT,,61,,,NSCLC,Gefitinib,,,PD,,,1.64,,3.74,retrospective case series,21274259
+,,WT,,62,,,NSCLC,Gefitinib,,,SD,,,7.84,,8.03,retrospective case series,21274259
+,,WT,,63,,,NSCLC,Gefitinib,,,PD,,,0.75,,2.89,retrospective case series,21274259
+,,WT,,66,,,NSCLC,Gefitinib,,,PD,,,2.07,,2.43,retrospective case series,21274259
+,,WT,,66,,,NSCLC,Gefitinib,,,PR,,,4.1,,11.64,retrospective case series,21274259
+,,WT,,69,,,NSCLC,Gefitinib,,,PD,,,0.82,,10.75,retrospective case series,21274259
+,,WT,,70,,,NSCLC,Gefitinib,,,CR,,,15.05,,17.57,retrospective case series,21274259
+,,WT,,72,,,NSCLC,Gefitinib,,,PR,,,3.11,,3.11,retrospective case series,21274259
+,,WT,,74,,,NSCLC,Gefitinib,,,PD,,,3.57,,9.15,retrospective case series,21274259
+,,WT,,75,,,NSCLC,Gefitinib,,,SD,,,5.31,,6.46,retrospective case series,21274259
+,,WT,,75,,,NSCLC,Gefitinib,,,PD,,,5.15,,5.15,retrospective case series,21274259
+21,point mutation,L858R,female,61,,,adenocarcinoma,Erlotinib,,,PR,RECIST,,,,,prospective clinical trial,21422426
+18,point mutation,G719S,female,59,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,10.6,,retrospective case series,21529987
+21,point mutation,L858R,female,54,,non-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,24.1,,retrospective case series,21529987
+21,point mutation,L858R,female,60,,current-smoker,adenocarcinoma,Gefitinib,,1,PR,RECIST,,,18.2,,retrospective case series,21529987
+18,deletion-insertion,E709_T710delinsD,female,61,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,5.1,22.7,retrospective case series,21531810
+18,deletion-insertion,E709_T710delinsD,male,65,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.9,11.1,retrospective case series,21531810
+18 and 21,point mutation,E709A+L858R,male,76,,non-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,3.9,5.4,retrospective case series,21531810
+18,point mutation,E709G+G719C,male,69,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,1.4,7.8,retrospective case series,21531810
+18 and 21,point mutation,E709G+L858R,male,85,,smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,8.6,10.4,retrospective case series,21531810
+18 and 21,point mutation,E709G+L858R,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.4,6.8,retrospective case series,21531810
+18 and 21,point mutation,E709V+L858R,male,66,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9.2,9.5,retrospective case series,21531810
+19 and 21,point mutation,E746G+L861Q,female,67,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6,6.1,retrospective case series,21531810
+19 and 21,point mutation,E758G+L858R,male,74,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6,13.9,retrospective case series,21531810
+18,point mutation,G719A,female,47,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,33.2,38.4,retrospective case series,21531810
+18,point mutation,G719A,male,78,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,27.2,42.4,retrospective case series,21531810
+18,point mutation,G719A,male,50,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,5.8,6.3,retrospective case series,21531810
+18,point mutation,G719A,female,57,,smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,2.1,2.2,retrospective case series,21531810
+18,point mutation,G719A,male,43,,smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,1.3,9.6,retrospective case series,21531810
+18,point mutation,G719A,male,43,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.2,1.8,retrospective case series,21531810
+18,point mutation,G719A+S720F,male,63,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.1,24.8,retrospective case series,21531810
+18 and 20,point mutation,G719A+S768I,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.6,1.8,retrospective case series,21531810
+18 and 20,point mutation,G719C+S768I,male,78,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,13.3,16.4,retrospective case series,21531810
+18,point mutation,G719D,male,81,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,21.7,22.5,retrospective case series,21531810
+18,point mutation,G719D,male,76,,smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,2.6,2.6,retrospective case series,21531810
+18 and 21,point mutation,G719D+L861Q,female,70,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.1,8.1,retrospective case series,21531810
+18 and 21,point mutation,G719S+L861Q,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3.1,14.8,retrospective case series,21531810
+20 and 21,point mutation,G779S+L858R,female,76,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,18.8,22.4,retrospective case series,21531810
+21,point mutation,H850D+L858R,male,47,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,3.5,25.2,retrospective case series,21531810
+21,point mutation,H850D+L858R,male,50,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.6,9.9,retrospective case series,21531810
+20,point mutation,K806E,male,77,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.6,28.1,retrospective case series,21531810
+21,point mutation,K860I+L861Q,male,58,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4.2,12.3,retrospective case series,21531810
+19,point mutation,L747P,male,39,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,2.3,7.2,retrospective case series,21531810
+19,point mutation,L747P,male,62,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1,7.7,retrospective case series,21531810
+19 and 21,point mutation,L747S+L858R,male,76,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.4,11.3,retrospective case series,21531810
+21,point mutation,L838P,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,15.2,29.3,retrospective case series,21531810
+21,point mutation,L858R+A871E,female,42,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,3.5,8.8,retrospective case series,21531810
+21,point mutation,L858R+K860I,female,58,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,32.5,43,retrospective case series,21531810
+21,point mutation,L858R+L861F,female,66,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,5.3,13.5,retrospective case series,21531810
+21,point mutation,L861Q,female,74,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,19.3,34.9,retrospective case series,21531810
+21,point mutation,L861Q,male,65,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,10,15.7,retrospective case series,21531810
+21,point mutation,L861Q,female,91,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.7,15.7,retrospective case series,21531810
+21,point mutation,L861Q,female,58,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,6.5,15.2,retrospective case series,21531810
+21,point mutation,L861Q,male,63,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,4.3,4.3,retrospective case series,21531810
+21,point mutation,L861Q,female,92,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.8,10.7,retrospective case series,21531810
+21,point mutation,L861R,male,83,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,37.5,53.3,retrospective case series,21531810
+21,point mutation,N826Y,female,46,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,3.3,13.9,retrospective case series,21531810
+21,point mutation,N842S,female,73,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.9,9.7,retrospective case series,21531810
+18,point mutation,Q701L+I706T+G719S,male,75,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,20.3,47.3,retrospective case series,21531810
+20 and 21,point mutation,R776G+L858R,female,87,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.2,1.1,retrospective case series,21531810
+20 and 21,point mutation,R776H+L858R,male,55,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,16,31.4,retrospective case series,21531810
+20 and 21,point mutation,R776H+L861Q,female,65,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,1.8,6.7,retrospective case series,21531810
+21,point mutation,R831C+L861R,female,78,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,13.7,13.7,retrospective case series,21531810
+21,point mutation,R831H+L861Q,female,63,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,4.9,6.7,retrospective case series,21531810
+20 and 21,point mutation,S768I+L858R,female,45,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,28.3,54.3,retrospective case series,21531810
+20 and 21,point mutation,S768I+L858R,female,81,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,10,10,retrospective case series,21531810
+20,point mutation,S784F,female,43,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.4,3.6,retrospective case series,21531810
+21,point mutation,T847I,male,77,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.1,1.1,retrospective case series,21531810
+19,point mutation,V742A,male,72,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,6.5,7.4,retrospective case series,21531810
+20,point mutation,V774A,female,51,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6.9,29.7,retrospective case series,21531810
+20,point mutation,V774M,male,80,,smoker,squamous cell carcinoma,Erlotinib,,,PD,RECIST,,,1.6,6.7,retrospective case series,21531810
+21,point mutation,V834I,female,79,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,5,15,retrospective case series,21531810
+21,point mutation,V834L+L858R,female,59,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,26.1,56.6,retrospective case series,21531810
+21,point mutation,V851I,female,69,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.7,1.6,retrospective case series,21531810
+19,deletion,E746_A750del,,,,,NSCLC,Erlotinib,,,PR,,,,,,retrospective case series,21791641
+21,point mutation,L858R,,,,,NSCLC,Erlotinib,,,PR,,,,,,retrospective case series,21791641
+20,insertion,D770insVDSVDNP,female,55,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1,,retrospective case series,21841502
+18,point mutation,E709A+G719C,female,80,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,12+,,retrospective case series,21841502
+18,point mutation,G719S,female,50,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,4+,,retrospective case series,21841502
+19,deletion-insertion,I744_K745delinsKIPVAI,female,36,,former-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,7,,retrospective case series,21841502
+21,point mutation,L858R+H870R,female,56,,non-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,5,,retrospective case series,21841502
+21,point mutation,L861Q,female,57,,former-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,3,,retrospective case series,21841502
+21,point mutation,L861R,female,34,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,2,,retrospective case series,21841502
+21,point mutation,L862V,male,54,,current-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2,,retrospective case series,21841502
+20,insertion,S768insVAS,female,72,,,adenocarcinoma,Gefitinib,,,PD,RECIST,,,3+,,retrospective case series,21841502
+20,point mutation,S784F,male,55,,current-smoker,Undifferentiated NSCLC,Erlotinib,,,PD,RECIST,,,2.5,,retrospective case series,21841502
+19,deletion,E746_A750del,male,52,,smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,35.9,,retrospective case series,21858063
+19,deletion,E746_A750del,male,60.6,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,26.9,,retrospective case series,21858063
+19,deletion,E746_A750del,male,63.4,,smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,20.5,,retrospective case series,21858063
+19,deletion,E746_A750del,female,71.1,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,17.1,,retrospective case series,21858063
+19,deletion,E746_A750del,male,61.2,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,13.8,,retrospective case series,21858063
+19,deletion,E746_A750del,female,53.9,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,11.6,,retrospective case series,21858063
+19,deletion,E746_A750del,male,64.7,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,10.7,,retrospective case series,21858063
+19,deletion,E746_A750del,female,56.3,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9,,retrospective case series,21858063
+19,deletion,E746_A750del,female,63.3,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9,,retrospective case series,21858063
+19,deletion,E746_A750del,male,76.7,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,3.3,,retrospective case series,21858063
+19,deletion,L747_P753del,male,66.9,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,4.7,,retrospective case series,21858063
+19,deletion-insertion,L747_T751delinsQ,female,71.5,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,14.7,,retrospective case series,21858063
+21,point mutation,L858R,male,68.3,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,46.4,,retrospective case series,21858063
+21,point mutation,L858R,female,70.9,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,45.2,,retrospective case series,21858063
+21,point mutation,L858R,female,65.6,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,28.3,,retrospective case series,21858063
+21,point mutation,L858R,male,76.9,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,20.7,,retrospective case series,21858063
+21,point mutation,L858R,female,72.4,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,12,,retrospective case series,21858063
+21,point mutation,L858R,female,74.1,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,7.2,,retrospective case series,21858063
+21,point mutation,L858R,female,75.7,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6.1,,retrospective case series,21858063
+21,point mutation,L858R,female,62.4,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,5.2,,retrospective case series,21858063
+21,point mutation,L858R,female,70,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,1.8,,retrospective case series,21858063
+21,point mutation,R831C+L861R,female,76.1,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,15.9,,retrospective case series,21858063
+,,WT,male,65.9,,smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,19.3,,retrospective case series,21858063
+,,WT,female,27.2,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,11.4,,retrospective case series,21858063
+,,WT,male,66.1,,smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,5.3,,retrospective case series,21858063
+,,WT,male,64,,smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,5.1,,retrospective case series,21858063
+,,WT,female,60.8,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,4.7,,retrospective case series,21858063
+,,WT,male,67.3,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,3,,retrospective case series,21858063
+,,WT,female,41.4,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.3,,retrospective case series,21858063
+,,WT,male,58.2,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.7,,retrospective case series,21858063
+,,WT,male,66.6,,smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,1.7,,retrospective case series,21858063
+,,WT,female,54.2,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.5,,retrospective case series,21858063
+,,WT,female,44.6,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,1.3,,retrospective case series,21858063
+,,WT,male,70.2,,smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,0.9,,retrospective case series,21858063
+,,WT,male,47.6,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,0.7,,retrospective case series,21858063
+,,WT,male,78,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.5,,retrospective case series,21858063
+21,point mutation,L858R,male,62,,,adenocarcinoma,Erlotinib,second-line,,PR,,,,,,retrospective case series,22114572
+21,point mutation,L858R,male,73,,,adenocarcinoma,Erlotinib,second-line,,PD,,,,,,retrospective case series,22114572
+,,WT,male,35,,,,Gefitinib,first-line,,PR,,,,,,retrospective case series,22114572
+19,insertion,I744insKIPVAI,,,,,adenocarcinoma,Erlotinib,,,PR,RECIST,,50,,,retrospective case series,22190593
+19,insertion,I744insKIPVAI,,,,,adenocarcinoma,Afatinib,,,PR,RECIST,,14,,,retrospective case series,22190593
+19,insertion,K745insTPVAIK,,,,,adenocarcinoma,Erlotinib,,,PR,RECIST,,19,,,retrospective case series,22190593
+19,deletion and point mutation,L747_E749del+A750P,,73,,former-smoker,adenocarcinoma,Gefitinib,,2,PD,RECIST,,,,,retrospective case series,22622260
+18,point mutation,F723L,female,66,,smoker,squamous cell carcinoma,Erlotinib,,,PD,RECIST,,,0.47,4.47,retrospective case series,22760226
+20,point mutation,V786M,male,62,,smoker,squamous cell carcinoma,Gefitinib,,,PD,RECIST,,,1.03,19.33,retrospective case series,22760226
+21,point mutation,L858R,male,72,,smoker,squamous cell carcinoma,Erlotinib,,,PD,RECIST,,,1.13,14.87,retrospective case series,22760226
+18,point mutation,G719A+S720F,male,70,,smoker,squamous cell carcinoma,Gefitinib,,,PR,RECIST,,,1.27,33.73,retrospective case series,22760226
+21,point mutation,L861G,female,69,,non-smoker,NSCLC,Gefitinib,,,SD,RECIST,,,3.67,17.73,retrospective case series,22760226
+19,point mutation,L747P,female,59,,,adenocarcinoma,Gefitinib,,,SD,RECIST,,,6,,retrospective case series,22797155
+20,point mutation,S768I,female,73,White,former-smoker,adenocarcinoma,Erlotinib,second-line,,PD,,,,1,,retrospective case series,22895145
+20,insertion,V769insASV,female,72,White,non-smoker,Bronchioloalveolar carcinoma,Gefitinib,,,PD,,,,,,retrospective case series,22895145
+21,point mutation,L858R,female,30,Asian,non-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,,8.4,,10.9+,retrospective case series,22896669
+21,point mutation,L858R,female,89,Asian,non-smoker,adenocarcinoma,Erlotinib,first-line,,SD,RECIST 1.1,,7.6,,16.5,retrospective case series,22896669
+21,point mutation,L858R,male,58,Asian,non-smoker,squamous cell carcinoma,Erlotinib,first-line,,PR,RECIST 1.1,,1.9,,2.5,retrospective case series,22896669
+21,point mutation,L858R,male,68,White,non-smoker,squamous cell carcinoma,Erlotinib,fourth-line,,PR,RECIST 1.1,,2.8+,,24.0+,retrospective case series,22896669
+18,insertion,E709insD,female,88,,non-smoker,adenocarcinoma,Erlotinib,first-line,0,PR,RECIST,,,,,retrospective case series,22982663
+18,deletion-insertion,E709_T710delinsD,female,88,,non-smoker,adenocarcinoma,Erlotinib,,,PR,,,,6,,retrospective case series,22982663
+20,point mutation,G796S,,,,,Parathyroid carcinoma,Erlotinib,,,SD,RECIST,,,,,retrospective case series,23139256
+19,point mutation,T751I,,,,,Unclassified spindel cell sarcoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23139256
+18,point mutation,E709A+G719S,female,55,Black,non-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,-54.50%,,8,11,retrospective case series,23242437
+18 and 20,point mutation,G719A+S768I,female,78,Asian,non-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,-33.30%,,7,10,retrospective case series,23242437
+18 and 20,point mutation,G719A+S768I,female,63,White,former-smoker,NSCLC,Erlotinib,first-line,,PR,RECIST 1.1,-69.30%,,5,8,retrospective case series,23242437
+19 and 20,deletion and point mutation,L747_T751del+R776S,female,65,White,former-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,-41.10%,,20,40+,retrospective case series,23242437
+19 and 21,point mutation,L747V+L858R,female,64,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,-37.30%,,6+,6+,retrospective case series,23242437
+21,point mutation,L858R+A871G,female,66,Asian,non-smoker,NSCLC,Erlotinib,first-line,,PD,RECIST 1.1,91.60%,,2,3,retrospective case series,23242437
+20 and 21,point mutation,R776H+L858R,female,81,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,-61.30%,,3+,3+,retrospective case series,23242437
+20,insertion,A763insFQEA,,,,,adenocarcinoma,Erlotinib,,,PR,,,,,,retrospective case series,23371856
+,,WT,female,67,,non-smoker,adenocarcinoma,Erlotinib,first-line,0,PR,RECIST,,,38.5,,retrospective case series,23489557
+,,WT,male,63,,non-smoker,adenocarcinoma,Erlotinib,second-line,2,PR,RECIST,,,21,,retrospective case series,23489557
+,,WT,male,74,,non-smoker,adenocarcinoma,Erlotinib,second-line,1,PR,RECIST,,,19.5,,retrospective case series,23489557
+,,WT,male,72,,former-smoker,adenocarcinoma,Erlotinib,second-line,1,PR,RECIST,,,18.5,,retrospective case series,23489557
+,,WT,female,54,,former-smoker,adenocarcinoma,Erlotinib,second-line,0,SD,RECIST,,,18,,retrospective case series,23489557
+,,WT,female,71,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,PR,RECIST,,,18,,retrospective case series,23489557
+,,WT,male,59,,former-smoker,adenocarcinoma,Erlotinib,first-line,0,PR,RECIST,,,11.5,,retrospective case series,23489557
+,,WT,male,65,,non-smoker,adenocarcinoma,Erlotinib,second-line,1,PR,RECIST,,,8,,retrospective case series,23489557
+,,WT,male,83,,former-smoker,adenocarcinoma,Erlotinib,first-line,1,SD,RECIST,,,8,,retrospective case series,23489557
+,,WT,female,65,,former-smoker,large-cell carcinoma,Erlotinib,third-line,1,SD,RECIST,,,7,,retrospective case series,23489557
+,,WT,male,54,,former-smoker,squamous cell carcinoma,Erlotinib,second-line,1,SD,RECIST,,,7,,retrospective case series,23489557
+18,point mutation,G719A,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23566546
+21,point mutation,L858R,,,,,adenocarcinoma,Erlotinib,,,PR,RECIST,,,,,retrospective case series,23566546
+21,point mutation,L858R,,,,,adenocarcinoma,Erlotinib,,,SD,RECIST,,,,,retrospective case series,23566546
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,23566546
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,23566546
+21,point mutation,L858R,,,,,adenocarcinoma,Gefitinib,,,PR,RECIST,,,,,retrospective case series,23566546
+21,point mutation,L858R,,,,,squamous cell carcinoma,Erlotinib,,,SD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,SD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,SD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST,,,,,retrospective case series,23566546
+,,WT,,,,,large-cell carcinoma,Erlotinib,,,SD,RECIST,,,,,retrospective case series,23566546
+19,deletion,E746_A750del,female,52,White,smoker,adenocarcinoma,Gefitinib,,,PR,,,,,,retrospective case series,23683537
+20,insertion,A763insFQEA,male,,,,adenocarcinoma,Erlotinib,fourth-line,,PR,RECIST,,>5,,,retrospective case series,23969006
+20,insertion,A763insFQEA,female,,,,adenocarcinoma,Erlotinib,second-line,,PR,RECIST,,9,,>17.5,retrospective case series,24285021
+20,insertion,A763insFQEA,female,69,Asian,non-smoker,adenocarcinoma,Erlotinib,second-line,,PR,RECIST,-78.50%,,18,24,retrospective case series,24353160
+20,insertion,A763insFQEA,female,38,White,former-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST,-60.00%,,5.5,16,retrospective case series,24353160
+20,insertion,A763insFQEA,female,67,White,non-smoker,adenocarcinoma,Erlotinib,third-line,,SD,RECIST,-24%,,3.9,6.7,retrospective case series,24353160
+20,duplication,A767dupASV,female,61,Asian,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,1,6.0+,retrospective case series,24353160
+20,insertion,D770insGL,female,79,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,13.00%,,6,14,retrospective case series,24353160
+20,insertion,D770insGL,male,45,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,24.00%,,3.8,39.3+,retrospective case series,24353160
+20,insertion,D770insGT,male,68,Asian,non-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,,,1,41.0+,retrospective case series,24353160
+20,insertion,D770insSVD,female,66,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,SD,RECIST,7.10%,,9,59,retrospective case series,24353160
+20,insertion,D770insSVD,female,71,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,,,0.9,0.9,retrospective case series,24353160
+20,deletion-insertion,D770delinsGY,female,67,White,former-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,6.00%,,1,1.5,retrospective case series,24353160
+20,deletion-insertion,D770delinsGY,female,76,White,former-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,38.10%,,1,12,retrospective case series,24353160
+20,insertion,H773insH,female,46,Asian,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,33.00%,,4,71.0+,retrospective case series,24353160
+20,insertion,H773insH,female,74,White,former-smoker,adenocarcinoma,Erlotinib,second-line,,PD,RECIST,64.80%,,0.8,2,retrospective case series,24353160
+20,insertion,H773insNPH,male,61,White,non-smoker,adenocarcinoma,Erlotinib,fourth-line,,PD,RECIST,,,1.6,4.4,retrospective case series,24353160
+20,insertion,M766insASV,female,43,White,non-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,-3.90%,,1,8.0+,retrospective case series,24353160
+20,insertion,P772insYNP,male,79,Asian,non-smoker,NSCLC,Erlotinib,first-line,,PD,RECIST,2.30%,,2.1,16.5,retrospective case series,24353160
+20,insertion,P772dupPHV,male,57,White,former-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,,,2,16,retrospective case series,24353160
+20,insertion,V769insASV,female,60,White,former-smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST,20.00%,,0.9,31.6,retrospective case series,24353160
+20,insertion,Y764insHH,male,66,White,former-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,-7.50%,,9,15,retrospective case series,24353160
+19,insertion,K745insIPVAIK,female,55,,,adenocarcinoma,Erlotinib,second-line,,SD,RECIST,,,,,retrospective case series,24389445
+21,point mutation,L861Q,male,75,,non-smoker,adenocarcinoma,Gefitinib,first-line,0,PR,RECIST,,,10.6,22.6,retrospective case series,24419415
+21,point mutation,L861Q,male,68,,smoker,adenocarcinoma,Gefitinib,first-line,0,SD,RECIST,,,6.4,12,retrospective case series,24419415
+21,point mutation,L861Q,male,42,,smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST,,,4.1,9.9,retrospective case series,24419415
+19,insertion,I744insKIPVAI,male,,,,adenocarcinoma,Gefitinib,first-line,,PR,/,,4.2,,,retrospective case series,24419426
+19,insertion,I744insKIPVAI,female,,,,,Gefitinib,,,PR,/,,8.8,,,retrospective case series,24419426
+19,insertion,I744insKIPVAI,female,,,,,Gefitinib,,,SD,/,,4.9,,,retrospective case series,24419426
+21,point mutation,L858R,male,70,,non-smoker,NSCLC,Erlotinib,first-line,,PR,RECIST,,,27.4,,prospective cohort study,24443522
+21,point mutation,L858R,female,66,,non-smoker,NSCLC,Gefitinib,first-line,,PR,RECIST,,,24.5,,prospective cohort study,24443522
+21,point mutation,L858R,male,59,,non-smoker,NSCLC,Erlotinib,first-line,,PR,RECIST,,,13,,prospective cohort study,24443522
+21,point mutation,L858R,female,56,,non-smoker,NSCLC,Gefitinib,first-line,,PR,RECIST,,,11.2,,prospective cohort study,24443522
+19,deletion,E746_A750del,,,,,adenocarcinoma,Dacomitinib,,,PR,RECIST,,,,,prospective cohort study,24501009
+19,deletion,E746_A750del,,,,,adenocarcinoma,Erlotinib,,,PR,RECIST,,,,,prospective cohort study,24501009
+18 and 20,point mutation,G719C+S768I,,,,,adenocarcinoma,Erlotinib,,,SD,RECIST,,,,,prospective cohort study,24501009
+18 and 20,point mutation,G719C+S768I,,,,,adenocarcinoma,Dacomitinib,,,PR,RECIST,,,,,prospective cohort study,24501009
+,,WT,,,,,NSCLC,Dacomitinib,,,PR,RECIST,,,,,prospective cohort study,24501009
+,,WT,,,,,NSCLC,Erlotinib,,,PD,RECIST,,,,,prospective cohort study,24501009
+,,WT,male,67,White,former-smoker,adenocarcinoma,Erlotinib,second-line,,CR,,,,,,retrospective case series,24661457
+21,point mutation,L858R,female,70,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,73,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,69,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,76,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,74,,,adenocarcinoma,Gefitinib,,,SD,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,64,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,male,64,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,53,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+21,point mutation,L858R,female,61,,,squamous cell carcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+,,WT,female,62,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+,,WT,female,78,,,adenocarcinoma,Gefitinib,,,PR,RECIST 1.0,,,,,prospective clinical trial,24692734
+,,WT,male,68,,,large-cell carcinoma,Gefitinib,,,SD,RECIST 1.0,,,,,prospective clinical trial,24692734
+,,WT,male,55,,,adenocarcinoma,Gefitinib,,,SD,RECIST 1.0,,,,,prospective clinical trial,24692734
+19,insertion,I744insKIPVAI,female,,,,adenocarcinoma,Gefitinib,first-line,,PR,RECIST 1.1,,5,,,retrospective case series,24736087
+19,insertion,I744insKIPVAI,female,,,,adenocarcinoma,Gefitinib,first-line,,SD,RECIST 1.1,,>11,,,retrospective case series,24736087
+19,insertion,I744insKIPVAI,female,,,,adenocarcinoma,Gefitinib,second-line,,SD,RECIST 1.1,,>9,,,retrospective case series,24736087
+21,point mutation,L858R,female,62,,non-smoker,adenocarcinoma,Afatinib,,1,PR,RECIST 1.1,,,9.7,18.4,prospective clinical trial,24758910
+21,point mutation,L858R,male,48,,smoker,adenocarcinoma,Afatinib,,1,PD,RECIST 1.1,,,1.1,3.4,prospective clinical trial,24758910
+,,WT,male,49,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST 1.1,,,,,retrospective case series,24772316
+,,WT,female,72,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST 1.1,,,,,retrospective case series,24772316
+,,WT,male,73,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST 1.1,,,,,retrospective case series,24772316
+20,point mutation,V769A,male,58,,,adenocarcinoma,Erlotinib,third-line,,PR,RECIST,,,,,retrospective case series,24908064
+20,point mutation,S768I,,,Caucasian,smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST 1.1,,,96,,retrospective case series,25521405
+20,point mutation,S768I,female,65,Caucasian,smoker,adenocarcinoma,Gefitinib,,0,PD,,,,2,,retrospective case series,25521406
+20,point mutation,S768I,male,56,Afro-Caribbean,smoker,adenocarcinoma,Gefitinib,first-line,1,PD,,,,1.5,,retrospective case series,25521406
+19,insertion,I744insKIPVAI,female,,,,adenocarcinoma,Erlotinib,fourth-line,,PR,/,,16,,>48,retrospective case series,25555368
+21,point mutation,L858R,female,77,,non-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST 1.1,,,,,retrospective case series,25561229
+19 and 21,deletion and point mutation,E746_A750del+L858R,male,74,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,8,8+,retrospective case series,25960661
+19 and 21,point mutation,P753S+L858R,female,47,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,21,39,retrospective case series,25960661
+19 and 21,deletion and point mutation,E746_A750del+L858R,female,53,,non-smoker,squamous cell carcinoma,Gefitinib,,,PR,RECIST 1.1,,,15,58+,retrospective case series,25960661
+20 and 21,point mutation,S768I+L858R,male,70,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,6,6.5,retrospective case series,25960661
+20 and 21,point mutation,T790M+L858R,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,10,18+,retrospective case series,25960661
+18 and 21,point mutation,E709K+L858R,male,68,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,10,26,retrospective case series,25960661
+19,point mutation,E746V+L747P,female,76,,,adenocarcinoma,Gefitinib,,,SD,,,,7,,retrospective case series,26001153
+20,insertion,A763insFQEA,,,,,adenocarcinoma,Erlotinib,,,PR,/,,3.2,,25,retrospective case series,26096453
+20,insertion,A763insFQEA,,,,,adenocarcinoma,Erlotinib,,,PR,/,,3.2,,25,retrospective case series,26096453
+20,insertion,D770insSVD,,,,,adenocarcinoma,Erlotinib,,,PD,/,,0.2,,3,retrospective case series,26096453
+20,insertion,V769insASV,,,,,adenocarcinoma,Erlotinib,,,PD,/,,5.6,,19,retrospective case series,26096453
+20,insertion,H773insNPH,,,,,adenocarcinoma,Erlotinib,,,PD,/,,2.5,,8,retrospective case series,26096453
+20,insertion,V769insASV,,,,,adenocarcinoma,Erlotinib,,,PD,/,,0.6,,21,retrospective case series,26096453
+20,insertion,D770insGT,,,,,adenocarcinoma,Erlotinib,,,SD,/,,0.7,,55,retrospective case series,26096453
+20,insertion,D770insSVD,,,,,adenocarcinoma,Erlotinib,,,PD,/,,2.3,,10,retrospective case series,26096453
+20,insertion,H773insAH,,,,,adenocarcinoma,Erlotinib,,,SD,/,,2.5,,3,retrospective case series,26096453
+18,deletion-insertion,E709_T710delinsD,male,63,,,adenocarcinoma,Erlotinib,,,SD,,,,,,retrospective case series,26206867
+18,deletion-insertion,E709_T710delinsD,male,63,,,adenocarcinoma,Afatinib,,,PR,,,,,,retrospective case series,26206867
+18,point mutation,E709K+G719C,,,,,adenocarcinoma,Gefitinib,second-line,,PR,RECIST,,,,14.8+,retrospective case series,26354324
+18 and 21,point mutation,E709K+L858R,,,,,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,37.5+,retrospective case series,26354324
+18 and 21,point mutation,G719S+L861Q,,,,,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,68.0+,retrospective case series,26354324
+18 and 20,point mutation,G724S+S768I,,,,,adenocarcinoma,Erlotinib,second-line,,SD,RECIST,,,,24.2+,retrospective case series,26354324
+18 and 21,point mutation,V689L+L858R,,,,,adenocarcinoma,Erlotinib,third-line,,PR,RECIST,,,,29.4+,retrospective case series,26354324
+18,point mutation,A702S,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+19,point mutation,A750V,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+18,point mutation,E709K+G719A,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+18 and 21,point mutation,E709K+L858R,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+18 and 21,point mutation,E709K+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+18 and 21,point mutation,E709K+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+18,point mutation,G719A,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+18,point mutation,G719A,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+18,point mutation,G719C,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+18 and 21,point mutation,G719C+L861Q,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+18 and 21,point mutation,G719C+L861Q,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+19,point mutation,G753S,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,G857E,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,L858M,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,L858M+L861Q,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,L858M+L861Q,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,L861Q,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,L861Q,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+21,point mutation,L861Q,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,R776H+L858R,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+G861L,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+G861L,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,PR,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Afatinib,,,PD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L861Q,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+20 and 21,point mutation,T790M+L861Q,,,,,NSCLC,Afatinib,,,SD,RECIST,,,,,prospective cohort study,26354527
+19,deletion,E746_A750del,female,72,,non-smoker,adenocarcinoma,Gefitinib,first-line,,CR,RECIST,,,,,retrospective case series,26712101
+19,deletion,E746_A750del,female,52,,former-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,,retrospective case series,26712101
+19,deletion-insertion,E746_S752delinsS,female,68,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PD,RECIST,,,,,retrospective case series,26712101
+19,deletion,E746_A750del,female,73,,former-smoker,adenocarcinoma,Erlotinib,first-line,,PR,RECIST,,,,,retrospective case series,26712101
+21,point mutation,L858R,female,54,,current-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST,,,,,retrospective case series,26712101
+19,deletion,E746_A750del,male,68,,former-smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST,,,,,retrospective case series,26712101
+20,insertion,A763insFQEA,male,60,White,non-smoker,NSCLC,Erlotinib,second-line,2,PR,,,,17.7,24.4,retrospective case series,26773740
+20,duplication,A767dupASV,male,67,White,non-smoker,NSCLC,Erlotinib,second-line,2,SD,,,,2.4,5.2,retrospective case series,26773740
+18,deletion-insertion,E709_T710delinsD,female,50,Asian,non-smoker,NSCLC,Erlotinib,second-line,1,PD,,,,1.3,1.7,retrospective case series,26773740
+18,point mutation,E709A+G719S,male,58,White,former-smoker,NSCLC,Erlotinib,first-line,1,SD,,,,8.4,17,retrospective case series,26773740
+18,point mutation,E709K+G719A,male,50,Asian,non-smoker,NSCLC,Erlotinib,second-line,1,PD,,,,1.4,8.6,retrospective case series,26773740
+18,point mutation,G719A,female,67,White,non-smoker,NSCLC,Erlotinib,second-line,1,SD,,,,15.4,16.3,retrospective case series,26773740
+18,point mutation,G719A+T725M,male,59,White,current-smoker,NSCLC,Erlotinib,first-line,0,SD,,,,5.6,11.4,retrospective case series,26773740
+18,point mutation,G719C,female,58,Asian,non-smoker,NSCLC,Erlotinib,first-line,1,PR,,,,16.7,26.5,retrospective case series,26773740
+20,insertion,H773insAH,male,70,White,non-smoker,NSCLC,Erlotinib,second-line,1,PD,,,,1.8,13,retrospective case series,26773740
+19,point mutation,I744V,female,77,Asian,former-smoker,NSCLC,Erlotinib,second-line,2,PD,,,,2.7,4.5,retrospective case series,26773740
+19,point mutation,K757R,male,41,Asian,non-smoker,NSCLC,Erlotinib,second-line,1,SD,,,,8.3,14.5,retrospective case series,26773740
+19,point mutation,L747FS,female,73,Asian,non-smoker,NSCLC,Erlotinib,second-line,1,PD,,,,4.1,7,retrospective case series,26773740
+20,point mutation,S768I+V774M,female,62,Asian,non-smoker,NSCLC,Erlotinib,second-line,1,SD,,,,5.5,36.9,retrospective case series,26773740
+20,point mutation,T790M,male,38,Asian,non-smoker,NSCLC,Erlotinib,second-line,2,SD,,,,16.4,29.1,retrospective case series,26773740
+20,point mutation,T790M,female,67,White,non-smoker,NSCLC,Erlotinib,second-line,1,SD,,,,15.4,16.3,retrospective case series,26773740
+20,point mutation,T790M,female,64,White,former-smoker,NSCLC,Erlotinib,first-line,1,PD,,,,1.6,4.5,retrospective case series,26773740
+18,point mutation,V689M,male,38,Asian,non-smoker,NSCLC,Erlotinib,second-line,2,SD,,,,16.4,29.1,retrospective case series,26773740
+21,point mutation,L858R,male,68,,former-smoker,NSCLC,Erlotinib,,,PR,,,,,,retrospective case series,27177916
+20 and 21,point mutation,T790M+L858R,male,68,,former-smoker,NSCLC,Osimertinib,,,PR,,,,,,retrospective case series,27177916
+18 and 20,point mutation,G719S+S768I,,,,,adenocarcinoma,Erlotinib,,,SD,RECIST 1.1,,,12,33,retrospective case series,27211795
+20,point mutation,S768I,,,,,adenocarcinoma,Erlotinib,,,PD,RECIST 1.1,,,3,5,retrospective case series,27211795
+20 and 21,point mutation,S768I+L858R,,,,,adenocarcinoma,Erlotinib,,,SD,RECIST 1.1,,,30,51+,retrospective case series,27211795
+18 and 20 and 21,point mutation,L718Q+T790M+L858R,female,71,,,adenocarcinoma,Osimertinib,third-line,,PD,,,,,,retrospective case series,27257132
+21,point mutation,L858R,female,71,,,adenocarcinoma,Gefitinib,first-line,,PR,,,,,,retrospective case series,27257132
+20 and 21,point mutation,T790M+L858R,female,71,,,adenocarcinoma,Osimertinib,third-line,,PR,,,,,,retrospective case series,27257132
+19,point mutation,L747P,male,61,,smoker,adenocarcinoma,Erlotinib,,,PD,,,,1,,retrospective case series,27499993
+18 and 20,point mutation,G719A+S768I,male,62,,smoker,adenocarcinoma,Erlotinib,second-line,,PR,RECIST,,,1.7,15,retrospective case series,27538584
+18 and 20,point mutation,G719S+S768I,male,69,,smoker,adenocarcinoma,Gefitinib,third-line,,PR,RECIST,,,5,55,retrospective case series,27538584
+18 and 20,point mutation,G724S+S768I,female,47,,non-smoker,adenocarcinoma,Erlotinib,second-line,,SD,RECIST,,,25.8,65,retrospective case series,27538584
+20,point mutation,S768I,female,52,,non-smoker,adenocarcinoma,Gefitinib,first-line,,SD,RECIST,,,8.8,9,retrospective case series,27538584
+20 and 21,point mutation,S768I+L858R,female,48,,non-smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST,,,13,43,retrospective case series,27538584
+20 and 21,point mutation,S768I+L858R,male,49,,smoker,adenocarcinoma,Afatinib,second-line,,SD,RECIST,,,5.3,76,retrospective case series,27538584
+20,point mutation,S768I+V769L,male,68,,smoker,adenocarcinoma,Erlotinib,second-line,,SD,RECIST,,,2,4,retrospective case series,27538584
+19,insertion,I740insIPVAIK,male,74,,current-smoker,adenocarcinoma,Icotinib,,,PR,RECIST,,,,,prospective clinical trial,27553514
+21,point mutation,L858R,,,,,NSCLC,Afatinib,first-line,,SD,RECIST,,,,,prospective clinical trial,27553514
+21,point mutation,L858R,,,,,NSCLC,Afatinib,first-line,,SD,RECIST,,,,,prospective clinical trial,27553514
+21,point mutation,L858R,,,,,NSCLC,Afatinib,first-line,,PR,RECIST,,,,,prospective clinical trial,27553514
+21,point mutation,L858R,,,,,NSCLC,Afatinib,first-line,,PR,RECIST,,,,,prospective clinical trial,27553514
+21,point mutation,L858R,,,,,NSCLC,Afatinib,first-line,,SD,RECIST,,,,,prospective clinical trial,27553514
+18,deletion-insertion,E709_T710delinsD,female,61,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,5.1,79,retrospective case series,27785061
+18,deletion-insertion,E709_T710delinsD,male,65,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.9,11.1,retrospective case series,27785061
+18,deletion-insertion,E709_T710delinsD,female,57,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,0.6,24.1,retrospective case series,27785061
+18,deletion-insertion,E709_T710delinsD,male,79,,smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,6.2,6.2,retrospective case series,27785061
+18,deletion-insertion,E709_T710delinsD,male,68,,smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.3,29.5,retrospective case series,27785061
+18,point mutation,E709A+G719C,female,59,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST,,,7.3,12.1,retrospective case series,27785061
+18,point mutation,E709A+G719C,female,58,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,14.9,29.3,retrospective case series,27785061
+18 and 21,point mutation,E709A+L858R,male,76,,non-smoker,adenocarcinoma,Erlotinib,,,SD,RECIST,,,3.9,5.4,retrospective case series,27785061
+18 and 21,point mutation,E709A+L858R,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,13.6,32,retrospective case series,27785061
+18,point mutation,E709G+G719C,male,69,,non-smoker,adenocarcinoma,Erlotinib,,,PD,RECIST,,,1.4,8.3,retrospective case series,27785061
+18 and 21,point mutation,E709G+L858R,male,85,,smoker,adenocarcinoma,Erlotinib,,,PR,RECIST,,,8.6,13.2,retrospective case series,27785061
+18 and 21,point mutation,E709G+L858R,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,PD,RECIST,,,2.4,6.8,retrospective case series,27785061
+18 and 21,point mutation,E709G+L858R,female,55,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,18.4,75.3,retrospective case series,27785061
+18,point mutation,E709K+G719S,female,64,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,11.1,11.1,retrospective case series,27785061
+18 and 21,point mutation,E709K+L858R,male,71,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,6.5,6.5,retrospective case series,27785061
+18 and 21,point mutation,E709K+L858R,male,69,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,8.6,8.6,retrospective case series,27785061
+18 and 21,point mutation,E709V+L858R,male,66,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST,,,9.2,9.5,retrospective case series,27785061
+19,insertion,I744insKIPVAI,female,42,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST 1.1,,,5,,retrospective case series,28089594
+19,insertion,I744insKIPVAI,male,46,,smoker,adenocarcinoma,Gefitinib,second-line,,SD,RECIST 1.1,,,22,,retrospective case series,28089594
+19,insertion,I744insKIPVAI,female,47,,non-smoker,adenocarcinoma,Erlotinib,second-line,,PD,RECIST 1.1,,,2,,retrospective case series,28089594
+20,insertion,A763insFQEA,female,46,,non-smoker,adenocarcinoma,Erlotinib,third-line,,PR,RECIST 1.1,,,14.5,,retrospective case series,28089594
+20,insertion,A763insFQEA,female,42,,non-smoker,adenocarcinoma,Gefitinib,first-line,,PR,RECIST 1.1,,,5,,retrospective case series,28089594
+20,insertion,A763insFQEA,male,45,,smoker,adenocarcinoma,Erlotinib,first-line,,PD,RECIST 1.1,,,3,,retrospective case series,28089594
+20 and 21,point mutation,T790M+L858R,female,66,,smoker,NSCLC,Osimertinib,,,PR,RECIST 1.1,-0.65,,,,prospective cohort study,28104619
+20 and 21,point mutation,T790M+L858R,female,70,,non-smoker,NSCLC,Osimertinib,,,SD,RECIST 1.1,-0.26,,,,prospective cohort study,28104619
+20 and 21,point mutation,T790M+L858R,female,81,,non-smoker,NSCLC,Osimertinib,,,PR,RECIST 1.1,-0.33,,,,prospective cohort study,28104619
+20 and 21,point mutation,T790M+L858R+K860I,female,67,,smoker,NSCLC,Osimertinib,,,SD,RECIST 1.1,-0.2,,,,prospective cohort study,28104619
+20 and 21,point mutation,S768I+T790M+L858R,female,71,White,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,prospective clinical trial,28527899
+20,point mutation,T790M,female,48,White,,NSCLC,Osimertinib,,,SD,RECIST 1.1,,,,,prospective clinical trial,28527899
+20,point mutation,T790M,female,54,Asian,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,prospective clinical trial,28527899
+20,point mutation,T790M,female,64,White,,NSCLC,Osimertinib,,,SD,RECIST 1.1,,,,,prospective clinical trial,28527899
+20,point mutation,T790M,female,65,Asian,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,prospective clinical trial,28527899
+20,point mutation,T790M,female,70,Asian,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,prospective clinical trial,28527899
+20,point mutation,T790M,female,71,White,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,prospective clinical trial,28527899
+18,deletion-insertion,E709_T710delinsD,female,52,,non-smoker,adenocarcinoma,Afatinib,,,PR,,,,,,retrospective case series,28625646
+18,point mutation,G719A,female,50,,,adenocarcinoma,Afatinib,,2,PR,RECIST 1.1,,,10.3,13.2,prospective clinical trial,28739703
+18,point mutation,G719S,female,68,,,adenocarcinoma,Afatinib,,2,PR,RECIST 1.1,,,5.7,5.7,prospective clinical trial,28739703
+18,point mutation,G719S,male,68,,,adenocarcinoma,Afatinib,,1,PD,RECIST 1.1,,,2,7.1,prospective clinical trial,28739703
+18 and 20,point mutation,G719C+S768I,male,55,,smoker,Malignant pleural mesothelioma,Afatinib,third-line,,PR,RECIST,,,,,retrospective case series,28838714
+21,point mutation,L858R,female,64,,former-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,5.6,,retrospective case series,28978102
+21,point mutation,L858R,male,75,,former-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,11.9,,retrospective case series,28978102
+21,point mutation,L858R,male,72,,non-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,18.5,,retrospective case series,28978102
+21,point mutation,L858R,male,72,,former-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,25.5,,retrospective case series,28978102
+21,point mutation,L858R,male,67,,former-smoker,NSCLC,Afatinib,,,SD,RECIST 1.1,,,5.3,,retrospective case series,28978102
+21,point mutation,L858R,female,70,,non-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,3.8,,retrospective case series,28978102
+21,point mutation,L858R,female,61,,non-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,3.8,,retrospective case series,28978102
+21,point mutation,L858R,female,79,,non-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,2.7,,retrospective case series,28978102
+21,point mutation,L858R,male,58,,former-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,4.5,,retrospective case series,28978102
+21,point mutation,L858R,male,49,,former-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,2.8,,retrospective case series,28978102
+21,point mutation,L858R,male,59,,current-smoker,NSCLC,Afatinib,,,PR,RECIST 1.1,,,11.6,,retrospective case series,28978102
+18 and 20,point mutation,G719A+T790M,female,33,,non-smoker,adenocarcinoma,Osimertinib,,,PR,RECIST 1.1,,,>5,>5,retrospective case series,28989039
+18 and 20,point mutation,G719A+T790M,female,51,,smoker,adenocarcinoma,Osimertinib,,,SD,RECIST 1.1,,,15,>15,retrospective case series,28989039
+19,point mutation,A743T,male,57,,smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST 1.1,,,14.3,29,retrospective case series,29173773
+20,insertion,D770insSVD,female,63,,non-smoker,adenocarcinoma,Erlotinib,third-line,1,SD,RECIST 1.1,,,3.5,30.7,retrospective case series,29173773
+20,insertion,D770insSVD,female,57,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PD,RECIST 1.1,,,2,16.9,retrospective case series,29173773
+20,insertion,D770insSVR,female,57,,non-smoker,NSCLC,Gefitinib,first-line,1,PD,RECIST 1.1,,,1,4.4,retrospective case series,29173773
+18,point mutation,E709K+G719S,male,61,,smoker,adenocarcinoma,Erlotinib,second-line,1,SD,RECIST 1.1,,,5.3,16.3,retrospective case series,29173773
+18 and 21,point mutation,E709K+L858R,female,67,,non-smoker,adenocarcinoma,Erlotinib,third-line,1,SD,RECIST 1.1,,,4.9,24.5,retrospective case series,29173773
+18,point mutation,G719A,female,63,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PR,RECIST 1.1,,,8.9,51.4,retrospective case series,29173773
+18,point mutation,G719A,female,62,,non-smoker,NSCLC,Erlotinib,first-line,1,SD,RECIST 1.1,,,1.9,10.5,retrospective case series,29173773
+18,point mutation,G719C,male,57,,smoker,adenocarcinoma,Erlotinib,second-line,1,PR,RECIST 1.1,,,13.9,25.2,retrospective case series,29173773
+18,point mutation,G719R,female,72,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,SD,RECIST 1.1,,,20,40.7,retrospective case series,29173773
+18,point mutation,G719S,female,65,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PR,RECIST 1.1,,,19.6,47.3,retrospective case series,29173773
+18,point mutation,G719S,female,51,,non-smoker,adenocarcinoma,Erlotinib,second-line,1,PR,RECIST 1.1,,,14.4,26.8,retrospective case series,29173773
+18,point mutation,G719S,male,74,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PR,RECIST 1.1,,,3,3.2,retrospective case series,29173773
+18,point mutation,G719S,female,56,,non-smoker,adenocarcinoma,Gefitinib,second-line,1,PD,RECIST 1.1,,,1.1,5.6,retrospective case series,29173773
+21,point mutation,G857G+L858R,female,54,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PR,RECIST 1.1,,,11,20.6,retrospective case series,29173773
+20,insertion,H773insNPH,male,57,,smoker,adenocarcinoma,Erlotinib,second-line,1,PD,RECIST 1.1,,,1.8,3,retrospective case series,29173773
+20,insertion,H773insQ,female,64,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,SD,RECIST 1.1,,,6.1,12.5,retrospective case series,29173773
+18 and 21,point mutation,L718Q+L858R,male,46,,smoker,adenocarcinoma,Erlotinib,second-line,1,PD,RECIST 1.1,,,0.5,3.7,retrospective case series,29173773
+19,point mutation,L747P+L747S,female,41,,non-smoker,adenocarcinoma,Gefitinib,second-line,1,SD,RECIST 1.1,,,4.1,29.7,retrospective case series,29173773
+21,point mutation,L858R+G873E,female,75,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,PR,RECIST 1.1,,,31.5,32.6,retrospective case series,29173773
+21,point mutation,L858R+K860I,female,58,,non-smoker,adenocarcinoma,Gefitinib,second-line,0,PR,RECIST 1.1,,,25.6,34.8,retrospective case series,29173773
+21,point mutation,L858V,male,67,,smoker,adenocarcinoma,Gefitinib,first-line,1,PD,RECIST 1.1,,,1,1,retrospective case series,29173773
+21,point mutation,L861Q,female,51,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST 1.1,,,8.5,12.7,retrospective case series,29173773
+21,point mutation,L861Q,female,63,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,PR,RECIST 1.1,,,7.5,11.7,retrospective case series,29173773
+21,point mutation,L861Q,male,74,,smoker,adenocarcinoma,Gefitinib,second-line,1,PD,RECIST 1.1,,,3,7.8,retrospective case series,29173773
+21,point mutation,L861Q,female,60,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,PD,RECIST 1.1,,,2.4,15.1,retrospective case series,29173773
+20,insertion,N771insN,male,62,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST 1.1,,,5.7,22.9,retrospective case series,29173773
+20,insertion,N771insN,female,57,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,SD,RECIST 1.1,,,0.9,30.6,retrospective case series,29173773
+20,deletion-insertion,N771delinsGY,female,53,,non-smoker,adenocarcinoma,Erlotinib,second-line,1,PD,RECIST 1.1,,,0.3,7.7,retrospective case series,29173773
+20 and 21,point mutation,R776C+L858R,male,54,,non-smoker,adenocarcinoma,Erlotinib,second-line,1,PR,RECIST 1.1,,,30.8,52.9,retrospective case series,29173773
+20,point mutation,R776H,male,59,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,SD,RECIST 1.1,,,1.3,3.7,retrospective case series,29173773
+20 and 21,point mutation,T790M+L858R,female,58,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,PD,RECIST 1.1,,,1.5,2.4,retrospective case series,29173773
+20 and 21,point mutation,T790M+L858R,male,49,,non-smoker,adenocarcinoma,Erlotinib,first-line,1,PD,RECIST 1.1,,,1,3.2,retrospective case series,29173773
+21,point mutation,T854A+L858R,female,62,,non-smoker,NSCLC,Gefitinib,first-line,1,PR,RECIST 1.1,,,9.2,27.3,retrospective case series,29173773
+21,point mutation,T854S+L858R,male,56,,non-smoker,adenocarcinoma,Erlotinib,first-line,0,PR,RECIST 1.1,,,15.2,27.7,retrospective case series,29173773
+19 and 21,point mutation,V738F+L858R,female,61,,non-smoker,adenocarcinoma,Gefitinib,first-line,1,SD,RECIST 1.1,,,1.4,7.6,retrospective case series,29173773
+20,point mutation,V786M,male,49,,non-smoker,adenocarcinoma,Gefitinib,second-line,1,PD,RECIST 1.1,,,1,3.8,retrospective case series,29173773
+21,point mutation,V834L+L858R,male,57,,smoker,adenocarcinoma,Erlotinib,first-line,1,PR,RECIST 1.1,,,6.2,9.1,retrospective case series,29173773
+,,WT,female,60,,non-smoker,NSCLC,Gefitinib,,0,PD,RECIST 1.1,,,,,prospective clinical trial,29346833
+,,WT,female,46,,non-smoker,NSCLC,Erlotinib,,1,SD,RECIST 1.1,,,,,prospective clinical trial,29346833
+,,WT,female,70,,non-smoker,NSCLC,Gefitinib,,1,SD,RECIST 1.1,,,,,prospective clinical trial,29346833
+,,WT,female,68,,non-smoker,NSCLC,Gefitinib,,1,PR,RECIST 1.1,,,,,prospective clinical trial,29346833
+19,point mutation,L747P,female,54,,,adenocarcinoma,Osimertinib,,,PD,,,,1,,retrospective case series,29673089
+20,point mutation,S768I,female,52,Asian,non-smoker,adenocarcinoma,Afatinib,sixth-line,,PR,RECIST,,,6,,retrospective case series,29731638
+19,insertion,I740insIPVAIK,male,74,,smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,36,,current-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,42,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,male,46,,current-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,48,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,51,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,54,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,56,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,female,63,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,male,68,,current-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,,,,,adenocarcinoma,Erlotinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,I744insKIPVAI,,,,,adenocarcinoma,Gefitinib,,,PD,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,K745insIPVAIK,,,,,adenocarcinoma,Afatinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+19,insertion,K745insTPVAIK,,,,,adenocarcinoma,Erlotinib,,,PR,RECIST 1.1,,,,,retrospective case series,29773459
+21,point mutation,L858R,female,75,,non-smoker,adenosquamous carcinoma,Erlotinib,,1,PR,RECIST 1.1,,,24,24,retrospective case series,29899852
+18 and 20,point mutation,G719C+S768I,female,58,,current-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,19,41,retrospective case series,29899852
+21,point mutation,L858R,female,61,,non-smoker,adenocarcinoma,Erlotinib,,0,PR,RECIST 1.1,,,5,7,retrospective case series,29899852
+21,point mutation,L858R,female,62,,former-smoker,adenosquamous carcinoma,Erlotinib,,0,PR,RECIST 1.1,,,8,25,retrospective case series,29899852
+21,point mutation,L858R,female,76,,current-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,7,16,retrospective case series,29899852
+19,deletion-insertion,L747_T751delinsLREAT,female,81,,former-smoker,adenocarcinoma,Erlotinib,,0,PR,RECIST 1.1,,,20,50,retrospective case series,29899852
+19,deletion-insertion,L747_T751delinsLREAT,male,83,,non-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,18,29,retrospective case series,29899852
+19,deletion and point mutation,E746_R748del+A750P,female,59,,former-smoker,adenocarcinoma,Erlotinib,,0,PR,RECIST 1.1,,,17,34,retrospective case series,29899852
+19,deletion-insertion,E746_A750delinsELREA,female,83,,former-smoker,squamous cell carcinoma,Erlotinib,,1,PR,RECIST 1.1,,,17,32,retrospective case series,29899852
+19,deletion-insertion,E746_T751delinsL,female,56,,current-smoker,adenocarcinoma,Erlotinib,,0,PR,RECIST 1.1,,,8,28,retrospective case series,29899852
+19,deletion-insertion,E746_A750delinsELREA,female,47,,former-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,6,9,retrospective case series,29899852
+21,point mutation,L858R,female,82,,non-smoker,adenocarcinoma,Erlotinib,,2,PR,RECIST 1.1,,,8,15,retrospective case series,29899852
+19,deletion-insertion,L747_P753delinsS,female,81,,non-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,9,22,retrospective case series,29899852
+19,deletion-insertion,E746_A750delinsELREA,male,67,,former-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,8,17,retrospective case series,29899852
+19,deletion-insertion,E746_A750delinsELREA,female,63,,non-smoker,adenocarcinoma,Erlotinib,,0,CR,RECIST 1.1,,,13,33,retrospective case series,29899852
+19,deletion-insertion,E746_A750delinsELREA,female,59,,former-smoker,adenocarcinoma,Erlotinib,,1,CR,RECIST 1.1,,,8,19,retrospective case series,29899852
+21,point mutation,L858R,male,75,,former-smoker,adenocarcinoma,Erlotinib,,1,PR,RECIST 1.1,,,8,16,retrospective case series,29899852
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Osimertinib,second-line,,CR,RECIST 1.1,,,13.4,,prospective clinical trial,30189719
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Osimertinib,second-line,,PR,RECIST 1.1,,,11,,prospective clinical trial,30189719
+21,point mutation,L858R,female,83,,,NSCLC,Gefitinib,,0,CR,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,75,,,NSCLC,Gefitinib,,1,PR,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,male,63,,,NSCLC,Gefitinib,,0,PR,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,59,,,NSCLC,Gefitinib,,0,PR,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,62,,,NSCLC,Gefitinib,,0,PR,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,69,,,NSCLC,Gefitinib,,1,PR,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,61,,,NSCLC,Gefitinib,,1,SD,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,male,69,,,NSCLC,Gefitinib,,0,SD,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,male,74,,,NSCLC,Gefitinib,,0,SD,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,50,,,NSCLC,Afatinib,,0,SD,RECIST 1.1,,,,,retrospective case series,30506897
+21,point mutation,L858R,female,83,,,NSCLC,Erlotinib,,0,CR,RECIST 1.1,,,9.3,,retrospective case series,30506897
+21,point mutation,L858R,female,75,,,NSCLC,Erlotinib,,1,SD,RECIST 1.1,,,2.4,,retrospective case series,30506897
+21,point mutation,L858R,male,63,,,NSCLC,Erlotinib,,0,SD,RECIST 1.1,,,30.1,,retrospective case series,30506897
+21,point mutation,L858R,female,59,,,NSCLC,Erlotinib,,0,PR,RECIST 1.1,,,12.5,,retrospective case series,30506897
+21,point mutation,L858R,female,62,,,NSCLC,Erlotinib,,0,PR,RECIST 1.1,,,8.9,,retrospective case series,30506897
+21,point mutation,L858R,female,69,,,NSCLC,Erlotinib,,1,SD,RECIST 1.1,,,1.6,,retrospective case series,30506897
+21,point mutation,L858R,female,61,,,NSCLC,Erlotinib,,1,SD,RECIST 1.1,,,17.3,,retrospective case series,30506897
+21,point mutation,L858R,male,69,,,NSCLC,Erlotinib,,0,PR,RECIST 1.1,,,15.2,,retrospective case series,30506897
+21,point mutation,L858R,male,74,,,NSCLC,Afatinib,,0,SD,RECIST 1.1,,,10.3,,retrospective case series,30506897
+21,point mutation,L858R,female,50,,,NSCLC,Gefitinib,,0,PR,RECIST 1.1,,,6.2,,retrospective case series,30506897
+19,point mutation,L747P,female,44,,,adenocarcinoma,Afatinib,,,SD,RECIST 1.1,,,24,,retrospective case series,30746257
+21,point mutation,L858R,female,64,,non-smoker,adenocarcinoma,Gefitinib,third-line,,SD,RECIST 1.1,,,23,,prospective clinical trial,30950859
+21,point mutation,L858R,female,68,,non-smoker,adenocarcinoma,Gefitinib,third-line,,PR,RECIST 1.1,,,13,,prospective clinical trial,30950859
+21,point mutation,L858R,male,52,,non-smoker,adenocarcinoma,Gefitinib,third-line,,SD,RECIST 1.1,,,9.1,,prospective clinical trial,30950859
+19,deletion-insertion,A750_I759delinsLN,,,,,adenocarcinoma,Afatinib,,,SD,,,,,,prospective cohort study,31043566
+20,insertion,A767insSVD,,,,,adenocarcinoma,Erlotinib,,,SD,,,,,,prospective cohort study,31043566
+20,duplication,A767dupASV,,,,,adenocarcinoma,Afatinib,,,PD,,,,,,prospective cohort study,31043566
+20,duplication,A767dupASV,,,,,adenocarcinoma,Afatinib,,,PR,,,,,,prospective cohort study,31043566
+20,duplication,A767dupASV,,,,,adenocarcinoma,Afatinib,,,PD,,,,,,prospective cohort study,31043566
+20,duplication,A767dupASV,,,,,adenocarcinoma,Afatinib,,,PD,,,,,,prospective cohort study,31043566
+20,insertion,D770insNPH,,,,,adenocarcinoma,Afatinib,,,PD,,,,,,prospective cohort study,31043566
+18,deletion-insertion,E709_T710delinsD,,,,,adenocarcinoma,Erlotinib,,,PD,,,,,,prospective cohort study,31043566
+21,point mutation,G857V,,,,,adenocarcinoma,Afatinib,,,SD,,,,,,prospective cohort study,31043566
+21,point mutation,K852T+L858R,,,,,adenocarcinoma,Gefitinib,,,PD,,,,,,prospective cohort study,31043566
+18 and 21,point mutation,L704M+G719A+A840G,,,,,adenocarcinoma,Afatinib,,,PR,,,,,,prospective cohort study,31043566
+19 and 20,deletion-insertion and point mutation,L747_S752delinQH+T790M,,,,,adenocarcinoma,Erlotinib,,,PR,,,,,,prospective cohort study,31043566
+21,point mutation,L833F+L858R,,,,,adenocarcinoma,Afatinib,,,PR,,,,,,prospective cohort study,31043566
+21,point mutation,L833V+L858R,,,,,squamous cell carcinoma,Gefitinib,,,SD,,,,,,prospective cohort study,31043566
+20,point mutation,N771Y,,,,,adenocarcinoma,Afatinib,,,SD,,,,,,prospective cohort study,31043566
+19,deletion,S752_I759del,,,,,adenocarcinoma,Afatinib,,,SD,,,,,,prospective cohort study,31043566
+20,point mutation,S768I+V774M,,,,,adenocarcinoma,Afatinib,,,PD,,,,,,prospective cohort study,31043566
+19,deletion-insertion,T751_I759delinsN,,,,,adenocarcinoma,Gefitinib,,,PD,,,,,,prospective cohort study,31043566
+19,deletion-insertion,T751_I759delinsN,,,,,adenocarcinoma,Afatinib,,,PD,,,,,,prospective cohort study,31043566
+18 and 20,point mutation,G719A+T790M,male,70,,former-smoker,adenocarcinoma,Osimertinib,,,PR,,,,>4,>4,retrospective case series,31164318
+18,deletion-insertion,E709_T710delinsD,female,56,,non-smoker,adenocarcinoma,Afatinib,,,PR,,,,7,,retrospective case series,31187861
+19,point mutation,L747P,male,63,,,adenocarcinoma,Gefitinib,,,PD,RECIST 1.1,,,0.9,,retrospective case series,31200815
+19,point mutation,L747P,male,36,,,adenocarcinoma,Erlotinib,,,PD,RECIST 1.1,,,2.9,,retrospective case series,31200815
+19,point mutation,L747P,male,69,,,adenocarcinoma,Afatinib,,,PR,RECIST 1.1,,,12,,retrospective case series,31200815
+18 and 19,point mutation,G719S+L747S,male,82,,,adenocarcinoma,Afatinib,,,PR,RECIST 1.1,,,14.7,,retrospective case series,31200815
+19,deletion and point mutation,L747S+A750_K754del,female,58,,,adenocarcinoma,Afatinib,,,PR,RECIST 1.1,,,9,,retrospective case series,31200815
+19,point mutation,L747P,male,49,,,adenocarcinoma,Afatinib,,,PR,RECIST 1.1,,,19.8,,retrospective case series,31200815
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,retrospective case series,31439584
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,retrospective case series,31439584
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,retrospective case series,31439584
+20 and 21,point mutation,T790M+L858R,,,,,NSCLC,Osimertinib,,,PR,RECIST 1.1,,,,,retrospective case series,31439584
+19,deletion,S752_I759del,female,67,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,18,,retrospective case series,32492620
+19,deletion,S752_I759del,male,70,,smoker,adenocarcinoma,Icotinib,,,SD,RECIST 1.1,,,6.5+,,retrospective case series,32492620
+19,deletion,S752_I759del,female,52,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,17.0+,,retrospective case series,32492620
+19,deletion,S752_I759del,male,71,,smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,54.0+,,retrospective case series,32492620
+19,deletion,S752_I759del,female,47,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,8,,retrospective case series,32492620
+19,deletion,S752_I759del,male,53,,non-smoker,adenocarcinoma,Gefitinib,,,SD,RECIST 1.1,,,12,,retrospective case series,32492620
+19,deletion,S752_I759del,female,69,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,34.5,,retrospective case series,32492620
+19,deletion,S752_I759del,female,59,,non-smoker,adenosquamous carcinoma,Gefitinib,,,SD,RECIST 1.1,,,4.5+,,retrospective case series,32492620
+19,deletion,S752_I759del,female,49,,non-smoker,adenocarcinoma,Erlotinib,,,PR,RECIST 1.1,,,6.5,,retrospective case series,32492620
+19,deletion,S752_I759del,male,63,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,9.5,,retrospective case series,32492620
+19,deletion,S752_I759del,female,66,,non-smoker,adenocarcinoma,Icotinib,,,PD,RECIST 1.1,,,2,,retrospective case series,32492620
+19,deletion,A750_E758del,female,64,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,7,,retrospective case series,32492620
+19,deletion-insertion,A750_E758delinsP,female,62,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,9,,retrospective case series,32492620
+19,deletion-insertion,T751_A755delinsNY,female,64,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,7,,retrospective case series,32492620
+19,deletion-insertion,T751_I759delinsG,female,36,,non-smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,18,,retrospective case series,32492620
+19,deletion-insertion,T751_I759delinsLD,female,40,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,15.5,,retrospective case series,32492620
+19,deletion-insertion,T751_I759delinsN,female,65,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,22,,retrospective case series,32492620
+19,deletion-insertion,T751_L760delinsNL,male,53,,non-smoker,adenosquamous carcinoma,Icotinib,,,SD,RECIST 1.1,,,5,,retrospective case series,32492620
+19,deletion-insertion,T751_D761delinsLY,female,39,,non-smoker,adenocarcinoma,Icotinib,,,PR,RECIST 1.1,,,9.5+,,retrospective case series,32492620
+19,deletion-insertion,A750_E758del,male,65,,smoker,adenocarcinoma,Gefitinib,,,PR,RECIST 1.1,,,8.0+,,retrospective case series,32492620
+19,point mutation,L747P,female,80,,non-smoker,adenocarcinoma,Gefitinib,,,SD,,,,18,,retrospective case series,33035779
+21,point mutation,L861Q,male,81,,,adenocarcinoma,Afatinib,,,PR,,,,,,retrospective case series,33533191
+21,point mutation,L858R+A871G,female,59,,,adenocarcinoma,Icotinib,,,PR,,,,,,retrospective case series,33835358
+18 and 20,point mutation,G719S+T790M,female,71,,,adenocarcinoma,Osimertinib,,0,PR,,,,5,8,retrospective case series,35076999
+18 and 20,point mutation,G719A+R776C,female,67,,,squamous cell carcinoma,Afatinib,,,PR,,,,,,retrospective case series,35230510
+21,point mutation,L858R,male,71,,,NSCLC,Osimertinib,,1,PD,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L858R,female,62,,,NSCLC,Osimertinib,,1,PR,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L861Q,female,64,,,NSCLC,Osimertinib,,1,PR,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L858R,male,55,,,NSCLC,Osimertinib,,0,SD,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L861Q,female,68,,,NSCLC,Osimertinib,,0,PR,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L858R,female,45,,,NSCLC,Osimertinib,,1,PR,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L858R,female,67,,,NSCLC,Osimertinib,,1,PR,RECIST,,,,,retrospective case series,35571073
+21,point mutation,L858R,female,57,,,NSCLC,Osimertinib,,1,PR,RECIST,,,,,retrospective case series,35571073

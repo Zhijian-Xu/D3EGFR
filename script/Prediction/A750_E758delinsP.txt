@@ -1,0 +1,9 @@
+Mutation Drug Predicted_response P(CR/PR) P(SD) P(PD) Score
+A750_E758delinsP Gefitinib CR/PR 61.4% 36.8% 1.8% -0.8
+A750_E758delinsP Erlotinib CR/PR 57.2% 40.2% 2.6% -0.69
+A750_E758delinsP Icotinib CR/PR 66.7% 32.1% 1.2% -0.95
+A750_E758delinsP Afatinib CR/PR 89.4% 10.6% 0.0% -1.91
+A750_E758delinsP Dacomitinib CR/PR 89.2% 10.7% 0.0% -1.9
+A750_E758delinsP Osimertinib CR/PR 78.8% 20.8% 0.3% -1.36
+A750_E758delinsP Almonertinib CR/PR 78.8% 20.8% 0.3% -1.36
+A750_E758delinsP Furmonertinib CR/PR 79.3% 20.4% 0.3% -1.38

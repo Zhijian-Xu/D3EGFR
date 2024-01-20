@@ -1,0 +1,9 @@
+Mutation Drug Predicted_response P(CR/PR) P(SD) P(PD) Score
+A743T Gefitinib SD 42.4% 50.5% 7.1% -0.33
+A743T Erlotinib CR/PR 55.2% 41.8% 3.0% -0.64
+A743T Icotinib CR/PR 59.9% 38.0% 2.1% -0.76
+A743T Afatinib CR/PR 91.1% 8.9% 0.0% -2.04
+A743T Dacomitinib CR/PR 84.6% 15.3% 0.1% -1.62
+A743T Osimertinib CR/PR 72.5% 26.8% 0.7% -1.13
+A743T Almonertinib CR/PR 72.8% 26.5% 0.6% -1.14
+A743T Furmonertinib CR/PR 73.4% 26.0% 0.6% -1.16
