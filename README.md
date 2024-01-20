@@ -5,7 +5,7 @@ As key oncogenic drivers in non-small cell lung cancer (NSCLC), various mutation
 Users are recommended to search for EGFR mutation patient cases and predict drug sensitivity through the D3EGFR website. The data sets and source code required to implement the D3EGFR website can be obtained in this interface.
 
 
-## USAGE of the source code
+## Usage of the source code
 ### First step
 Install DeepPurpose. please refer to this link for details (https://github.com/kexinhuang12345/DeepPurpose)
 
