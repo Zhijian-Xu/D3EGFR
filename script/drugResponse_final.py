@@ -177,10 +177,10 @@ def predict_drug_score_response_probability(fasta, mutation, drug, DL_model,LR_m
     print(y_pred,response,CR_PR,SD,PD)
     return y_pred,response,CR_PR,SD,PD
 
-# 加载Morgan+CNN深度学习模型 
-DL_model = models.model_pretrained(path_dir = '/home/yqyang/D3EGFR/model/Morgan_CNN')
-# 加载逻辑回归模型模型 
-LR_model = pickle.load(open("/home/yqyang/D3EGFR/model/Logistic_regression/D3EGFR_Logistic_Regression.dat","rb"))
+# load deep learning model
+DL_model = models.model_pretrained(path_dir = 'model/Morgan_CNN')
+# load Logistic regression model 
+LR_model = pickle.load(open("model/Logistic_regression/D3EGFR_Logistic_Regression.dat","rb"))
 
 mutation_fasta = generate_mutated_fasta(EGFR_fasta, mutation)
 print('Mutant Fasta: ', mutation_fasta)
