@@ -9,12 +9,26 @@ Users are recommended to search for EGFR mutation patient cases and predict drug
 
 ## Usage of the source code
 ### First step: Install DeepPurpose. 
-The drug and protein encoders were provided by *DeepPurpose*.  
-Therefore, before running D3EGFR, please make sure *DeepPurpose* is installed correctly.  
-Please refer to this link for how to install *DeepPurpose*: https://github.com/kexinhuang12345/DeepPurpose  
-DeepPurpose doi: 10.1093/bioinformatics/btaa1005
+The drug and protein encoders were provided by **DeepPurpose**.  
+Therefore, before running D3EGFR, please make sure **DeepPurpose** is installed correctly.  
+Please refer to this link for how to install **DeepPurpose**: https://github.com/kexinhuang12345/DeepPurpose  
+DeepPurpose **doi**: 10.1093/bioinformatics/btaa1005  
+To install locally, we recommend to install **DeepPurpose** from **pip**:
+```
+conda create -n DeepPurpose python=3.6
+conda activate DeepPurpose
+conda install -c conda-forge notebook
+pip install git+https://github.com/bp-kelley/descriptastorus 
+pip install DeepPurpose
+```
 
-### Second step: run D3EGFR
+### Second step: download D3EGFR code
+```
+git clone https://github.com/Zhijian-Xu/D3EGFR.git
+```
+Or you can download and unzip the D3EGFR zip file.
+
+### Third step: run D3EGFR
 ```
 #mutation examples:
 #Point mutation: L858R
@@ -30,8 +44,8 @@ python drugResponse_final.py -m [mutation]
 The code in this package is licensed under the MIT License.
 
 ## Other
-The patient dataset and external dataset is also released in zenodo (https://zenodo.org/records/10612678). 
+The patient dataset and external dataset are also released in **zenodo** (https://zenodo.org/records/10612678). 
 
-If you have any questions about the installation and use of D3EGFR, please contact us (zjxu@simm.ac.cn).
+If you have any questions about the installation and use of D3EGFR, please contact us (zjxu@simm.ac.cn; xbzhang@simm.ac.cn).
 
 
