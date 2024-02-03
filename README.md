@@ -9,18 +9,21 @@ Users are recommended to search for EGFR mutation patient cases and predict drug
 
 ## Usage of the source code
 ### First step: Install DeepPurpose. 
-The drug and protein encoders were provided by *DeepPurpose*.
-Therefore, before running D3EGFR, please make sure *DeepPurpose* is installed correctly.
-Please refer to this link for how to install *DeepPurpose*: https://github.com/kexinhuang12345/DeepPurpose
+The drug and protein encoders were provided by *DeepPurpose*.  
+Therefore, before running D3EGFR, please make sure *DeepPurpose* is installed correctly.  
+Please refer to this link for how to install *DeepPurpose*: https://github.com/kexinhuang12345/DeepPurpose  
 DeepPurpose doi: 10.1093/bioinformatics/btaa1005
 
 ### Second step: run D3EGFR
 ```
 #mutation examples:
-#Point mutation: L858RDeletion mutation: E746_A750del, V834delInsert mutation: D770insSVD
+#Point mutation: L858R
+#Deletion mutation: E746_A750del, V834del
+#Insert mutation: D770insSVD
 #Duplicate mutation: A767dupASV
 #Deletion-insertion mutation: L747_P753delinsS
 #Complex mutation: E746_A750del+L858R
+
 python drugResponse_final.py -m [mutation]
 ```
 
