@@ -1,0 +1,19 @@
+* In the D3EGFR-database.csv file，There are 18 columns of patient information reported in the literature Each column is explained as follows. Among them, the blank item indicates that the corresponding literature does not provide this information.*
+1.Exon: gene exon
+2.Type: mutation type
+3.EGFR mutation: specific mutation site
+4.Gender: patient gender
+5.Age: patient age
+6.Ethnicity: patient ethnicity
+7.Smoking status: patient smoking status
+8.Pathology: pathological features of the patient
+9.EGFR-TKI: approved small molecule drugs indicated for EGFR mutation-positive NSCLC. 
+10.Line-of-therapy: it refers to a specific course or sequence of medical treatments that a patient undergoes to manage or treat a particular medical condition.
+11.ECOG performance status: It describes a patient's level of functioning in terms of their ability to care for themself, daily activity, and physical ability (walking, working, etc.).
+12.Response: drug response classified by response criteria
+13.Response criteria: drug response is evaluated based on the World Health Organization criteria or Response Evaluation Criteria in Solid Tumours (RECIST) guidelines.
+14.TTP(month): time to progression
+15.PFS(months): progression-free survival
+16.OS(months): overall survival
+17.Study type: clinical research approach
+18.PMID: the reference id in PubMed
