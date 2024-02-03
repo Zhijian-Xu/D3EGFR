@@ -26,4 +26,9 @@ DeepPurpose doi: 10.1093/bioinformatics/btaa1005
 
 python drugResponse_final.py -m [mutation]
 ```
+## Other
+The patient dataset and external dataset is also released in zenodo (https://zenodo.org/records/10612678). 
+
+If you have any questions about the installation and use of D3EGFR, please contact us (zjxu@simm.ac.cn).
+
 
