@@ -26,6 +26,9 @@ DeepPurpose doi: 10.1093/bioinformatics/btaa1005
 
 python drugResponse_final.py -m [mutation]
 ```
+## License
+The code in this package is licensed under the MIT License.
+
 ## Other
 The patient dataset and external dataset is also released in zenodo (https://zenodo.org/records/10612678). 
 
