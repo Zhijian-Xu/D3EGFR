@@ -8,6 +8,7 @@ The running script of D3EGFRAI is **drugResponse_final.py** for drug response pr
 Users are recommended to search for EGFR mutation patient cases and predict drug sensitivity through the D3EGFR website. The data sets and source code required to implement the D3EGFR website can be obtained in this interface.
 
 ## Documentation
+The D3EGFR website manual can be found in https://www.d3pharma.com/D3EGFR/help.php. For local installation and use of D3EGFR, please refer to the following steps.
 ### Installation
 #### 1.Install DeepPurpose  
 > The drug and protein encoders are provided by **DeepPurpose**.  
